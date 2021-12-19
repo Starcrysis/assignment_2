@@ -1,0 +1,2217 @@
+Education,Marital_Status,Age_Group,Income_Class,Children,Wine_Preference,Fruit_Preference,Meat_Preference,Sweets_Preference,Purchase_Place
+Graduation,Single,50s,Medium,No Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Single,50s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Together,40s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Together,20s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Married,30s,Medium,Children,Wine,Fruits,Meat,Sweets,Store
+Master,Together,40s,High,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Divorced,40s,Medium,Children,Wine,Fruits,Meat,Sweets,Web
+PhD,Married,20s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+PhD,Together,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+PhD,Together,60s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Basic,Married,30s,Low,No Children,No Wine,Fruits,No Meat,No Sweets,Store
+Graduation,Divorced,50s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Master,Divorced,50s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Married,20s,Low,No Children,No Wine,Fruits,No Meat,No Sweets,Store
+PhD,Single,60s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,30s,Medium,Children,No Wine,No Fruits,No Meat,Sweets,Web
+Graduation,Together,60s,Medium,No Children,No Wine,No Fruits,No Meat,Sweets,Store
+Master,Married,60s,High,Children,Wine,Fruits,Meat,Sweets,Web
+2n Cycle,Single,20s,Medium,Children,No Wine,Fruits,No Meat,Sweets,Store
+Graduation,Married,20s,Medium,No Children,No Wine,No Fruits,Meat,Sweets,Store
+Graduation,Married,30s,Low,Children,No Wine,No Fruits,Meat,No Sweets,Web
+PhD,Married,60s,Medium,Children,Wine,No Fruits,Meat,No Sweets,Store
+PhD,Married,50s,High,Children,Wine,No Fruits,Meat,Sweets,Store
+Graduation,Together,60s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Single,40s,Low,No Children,No Wine,No Fruits,No Meat,Sweets,Store
+Graduation,Married,30s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Married,20s,Medium,Children,No Wine,No Fruits,No Meat,Sweets,Store
+PhD,Married,40s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Master,Divorced,20s,Low,No Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Master,Together,40s,Medium,No Children,Wine,Fruits,No Meat,Sweets,Store
+Graduation,Together,40s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Divorced,50s,Medium,Children,No Wine,Fruits,Meat,Sweets,Store
+Master,Married,60s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Master,Single,60s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Married,40s,High,Children,Wine,Fruits,Meat,No Sweets,Store
+2n Cycle,Married,30s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Widow,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Divorced,60s,Medium,No Children,Wine,No Fruits,Meat,Sweets,Web
+Graduation,Married,30s,High,Children,Wine,Fruits,Meat,Sweets,Web
+Master,Married,20s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Together,50s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Married,30s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Single,30s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+2n Cycle,Married,80s,Low,No Children,No Wine,Fruits,No Meat,Sweets,Web
+Graduation,Together,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+PhD,Married,50s,High,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Widow,50s,High,Children,Wine,Fruits,Meat,Sweets,Store
+Master,Married,40s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Single,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Divorced,30s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,30s,High,Children,Wine,No Fruits,Meat,Sweets,Store
+Master,Together,50s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Divorced,40s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Single,20s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Married,40s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Web
+Master,Single,20s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Together,30s,High,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Single,50s,High,Children,Wine,No Fruits,Meat,Sweets,Store
+PhD,Widow,60s,High,Children,Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Together,60s,High,No Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Married,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Together,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+2n Cycle,Single,30s,High,Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Together,50s,High,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Together,40s,High,Children,Wine,Fruits,Meat,Sweets,Store
+Master,Married,50s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,50s,High,Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Married,30s,High,Children,Wine,No Fruits,Meat,No Sweets,Web
+Graduation,Married,50s,Medium,No Children,No Wine,No Fruits,No Meat,Sweets,Store
+Graduation,Divorced,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Married,30s,High,No Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Single,30s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+2n Cycle,Together,30s,Medium,No Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Together,40s,Medium,No Children,Wine,No Fruits,Meat,No Sweets,Web
+Graduation,Single,20s,Medium,Children,No Wine,No Fruits,Meat,No Sweets,Store
+Graduation,Married,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+2n Cycle,Married,30s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Master,Together,40s,Medium,No Children,Wine,Fruits,No Meat,Sweets,Store
+Graduation,Divorced,20s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,50s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Married,40s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Single,50s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Married,30s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Together,40s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Store
+Master,Single,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Married,40s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Married,20s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Widow,50s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Divorced,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+2n Cycle,Married,60s,High,No Children,Wine,Fruits,Meat,No Sweets,Store
+PhD,Married,20s,Medium,No Children,Wine,Fruits,Meat,Sweets,Store
+2n Cycle,Single,50s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Single,50s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Together,30s,High,Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Married,60s,High,No Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Married,50s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Basic,Together,30s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,40s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Married,40s,Medium,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Single,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Master,Married,50s,High,No Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Together,30s,High,Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Single,20s,High,No Children,Wine,Fruits,Meat,Sweets,Web
+Master,Together,40s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Single,20s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Married,30s,Medium,Children,Wine,No Fruits,Meat,No Sweets,Web
+Graduation,Single,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,40s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+2n Cycle,Married,30s,Medium,Children,No Wine,Fruits,Meat,Sweets,Web
+2n Cycle,Together,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Together,40s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Together,50s,Medium,Children,Wine,Fruits,Meat,Sweets,Store
+Master,Single,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Married,20s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Divorced,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Single,20s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+2n Cycle,Together,40s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Single,20s,High,No Children,Wine,Fruits,Meat,No Sweets,Store
+Master,Married,50s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Together,50s,High,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,50s,High,Children,Wine,Fruits,Meat,Sweets,Web
+Master,Alone,50s,High,Children,Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Married,40s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Married,40s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Web
+PhD,Together,40s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Basic,Divorced,30s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Married,50s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+PhD,Alone,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Divorced,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Single,80s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Master,Together,30s,High,Children,Wine,No Fruits,Meat,Sweets,Store
+Graduation,Married,40s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Single,30s,High,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Together,20s,Medium,Children,No Wine,Fruits,No Meat,Sweets,Web
+Graduation,Married,30s,Medium,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,30s,Low,Children,No Wine,No Fruits,No Meat,Sweets,Store
+Graduation,Together,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+2n Cycle,Married,30s,Medium,Children,No Wine,No Fruits,Meat,No Sweets,Web
+Master,Married,40s,Medium,No Children,No Wine,Fruits,No Meat,Sweets,Store
+Master,Married,50s,Medium,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,40s,High,Children,Wine,Fruits,No Meat,Sweets,Web
+2n Cycle,Together,30s,Medium,Children,Wine,Fruits,No Meat,Sweets,Web
+Graduation,Alone,20s,Medium,Children,No Wine,No Fruits,No Meat,Sweets,Store
+PhD,Together,50s,High,Children,Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Together,60s,High,No Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Single,50s,Medium,Children,Wine,No Fruits,Meat,Sweets,Web
+Graduation,Single,30s,High,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Together,30s,Medium,Children,No Wine,Fruits,No Meat,Sweets,Store
+Graduation,Single,50s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Master,Single,50s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Married,60s,High,No Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Married,20s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Divorced,30s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Married,30s,High,Children,No Wine,No Fruits,Meat,No Sweets,Web
+Graduation,Together,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Divorced,50s,High,No Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Divorced,50s,Medium,No Children,Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Single,20s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Together,50s,Medium,Children,No Wine,No Fruits,No Meat,Sweets,Store
+Graduation,Together,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,20s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+PhD,Together,50s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Single,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+PhD,Married,30s,High,Children,Wine,Fruits,Meat,Sweets,Web
+PhD,Married,60s,High,No Children,Wine,Fruits,Meat,Sweets,Web
+PhD,Married,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Together,50s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+2n Cycle,Married,60s,High,No Children,Wine,Fruits,Meat,No Sweets,Store
+PhD,Married,30s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Web
+2n Cycle,Married,20s,Low,Children,No Wine,Fruits,No Meat,Sweets,Store
+Master,Married,60s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Master,Married,20s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Basic,Married,50s,Medium,No Children,No Wine,No Fruits,No Meat,Sweets,Store
+Graduation,Married,20s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Single,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,40s,High,Children,Wine,No Fruits,Meat,No Sweets,Store
+Graduation,Married,30s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Married,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Basic,Together,30s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Together,20s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+2n Cycle,Divorced,80s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Married,20s,Medium,Children,No Wine,No Fruits,No Meat,Sweets,Web
+Graduation,Married,30s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Married,30s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,50s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,50s,High,No Children,Wine,Fruits,Meat,Sweets,Web
+PhD,Single,30s,Medium,Children,No Wine,No Fruits,Meat,No Sweets,Web
+Graduation,Divorced,50s,High,Children,Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Single,40s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Divorced,30s,High,Children,Wine,Fruits,Meat,Sweets,Web
+PhD,Together,30s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Single,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Single,20s,Low,No Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Together,20s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Divorced,40s,Medium,Children,No Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Divorced,50s,High,Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Together,50s,Medium,Children,No Wine,Fruits,Meat,No Sweets,Store
+Graduation,Together,50s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Married,40s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Web
+Master,Together,30s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,20s,High,No Children,Wine,No Fruits,Meat,Sweets,Store
+Graduation,Married,30s,Medium,Children,Wine,No Fruits,Meat,Sweets,Web
+2n Cycle,Single,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Married,60s,High,No Children,Wine,Fruits,Meat,Sweets,Web
+Master,Widow,50s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Together,30s,High,Children,Wine,Fruits,Meat,Sweets,Web
+2n Cycle,Together,20s,Medium,Children,No Wine,Fruits,No Meat,No Sweets,Store
+Graduation,Married,40s,High,No Children,Wine,No Fruits,Meat,Sweets,Store
+PhD,Together,40s,High,Children,Wine,No Fruits,Meat,No Sweets,Store
+PhD,Married,30s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Divorced,40s,High,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Together,30s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Together,30s,Medium,Children,Wine,No Fruits,Meat,Sweets,Web
+Graduation,Divorced,50s,Medium,Children,Wine,Fruits,Meat,No Sweets,Store
+PhD,Married,30s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Together,20s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Single,40s,Medium,Children,Wine,No Fruits,Meat,Sweets,Store
+2n Cycle,Divorced,40s,High,Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Together,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Single,60s,Low,No Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Married,40s,High,Children,Wine,Fruits,Meat,No Sweets,Store
+2n Cycle,Married,30s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Together,20s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Single,50s,High,Children,Wine,No Fruits,Meat,Sweets,Store
+Graduation,Single,30s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+2n Cycle,Single,80s,High,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Widow,40s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Together,50s,High,Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Single,40s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Married,20s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,50s,High,Children,Wine,No Fruits,Meat,Sweets,Web
+PhD,Married,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,30s,High,Children,Wine,Fruits,Meat,No Sweets,Store
+Graduation,Married,50s,High,Children,Wine,Fruits,Meat,Sweets,Web
+PhD,Married,20s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Master,Together,40s,High,Children,Wine,Fruits,Meat,Sweets,Web
+Master,Single,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Single,20s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Divorced,30s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+2n Cycle,Together,50s,Medium,No Children,No Wine,Fruits,No Meat,Sweets,Store
+Graduation,Together,40s,High,Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Single,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Together,50s,High,Children,Wine,Fruits,Meat,No Sweets,Web
+Graduation,Single,40s,Medium,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Single,40s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Single,50s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Divorced,30s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Divorced,40s,High,Children,Wine,Fruits,Meat,No Sweets,Web
+Master,Married,40s,Medium,Children,Wine,No Fruits,Meat,Sweets,Store
+PhD,Married,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Together,50s,Medium,Children,Wine,No Fruits,Meat,No Sweets,Web
+Master,Married,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Married,40s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Married,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Married,40s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Together,40s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Single,50s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Master,Single,20s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Together,30s,High,Children,Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Married,50s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Divorced,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Together,40s,High,Children,Wine,No Fruits,Meat,Sweets,Store
+Graduation,Single,50s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Master,Together,30s,High,No Children,No Wine,Fruits,Meat,Sweets,Store
+PhD,Single,20s,High,No Children,Wine,No Fruits,Meat,Sweets,Store
+Master,Divorced,40s,High,Children,Wine,Fruits,Meat,No Sweets,Web
+Basic,Married,30s,Low,Children,No Wine,Fruits,No Meat,Sweets,Store
+Graduation,Together,30s,Medium,Children,Wine,No Fruits,Meat,Sweets,Web
+Graduation,Together,60s,Medium,No Children,No Wine,No Fruits,No Meat,Sweets,Store
+PhD,Together,30s,High,Children,Wine,No Fruits,Meat,Sweets,Store
+Master,Married,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Together,50s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Master,Together,50s,Medium,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Widow,40s,High,No Children,Wine,Fruits,Meat,Sweets,Web
+Master,Divorced,60s,Medium,No Children,Wine,No Fruits,Meat,No Sweets,Web
+2n Cycle,Together,20s,Medium,No Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Together,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Married,30s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Together,40s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Together,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Together,50s,Medium,Children,Wine,No Fruits,Meat,Sweets,Store
+2n Cycle,Divorced,20s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Together,20s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Single,20s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Divorced,40s,Medium,Children,Wine,No Fruits,Meat,No Sweets,Store
+Graduation,Divorced,50s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+2n Cycle,Together,50s,Medium,Children,Wine,Fruits,Meat,No Sweets,Web
+PhD,Married,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Single,20s,Medium,Children,No Wine,Fruits,Meat,Sweets,Web
+Graduation,Together,20s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Master,Married,50s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Widow,40s,Medium,No Children,No Wine,Fruits,No Meat,Sweets,Web
+Graduation,Single,60s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Master,Married,40s,High,Children,Wine,No Fruits,No Meat,No Sweets,Web
+Master,Together,80s,Medium,No Children,Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Divorced,30s,Low,Children,No Wine,No Fruits,No Meat,Sweets,Web
+Graduation,Married,40s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Single,30s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,40s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Store
+Master,Together,50s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Single,20s,High,Children,No Wine,Fruits,Meat,No Sweets,Store
+Graduation,Married,60s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,40s,High,Children,Wine,No Fruits,Meat,Sweets,Store
+Graduation,Married,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Divorced,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Divorced,50s,High,Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Single,50s,Medium,Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Married,50s,High,No Children,Wine,No Fruits,Meat,Sweets,Store
+PhD,Divorced,30s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,20s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Married,60s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Single,20s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Single,20s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Single,20s,Medium,No Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Married,50s,High,Children,Wine,Fruits,Meat,No Sweets,Web
+Master,Married,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Together,20s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Divorced,50s,High,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Divorced,40s,High,No Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Married,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Together,40s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Together,80s,High,No Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Single,20s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Divorced,20s,Medium,No Children,No Wine,Fruits,No Meat,No Sweets,Store
+PhD,Married,40s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Together,60s,Medium,Children,Wine,Fruits,Meat,Sweets,Store
+Basic,Together,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Divorced,50s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Divorced,40s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Widow,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Married,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,50s,High,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,20s,High,Children,Wine,Fruits,Meat,Sweets,Web
+PhD,Single,40s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,30s,High,No Children,Wine,Fruits,Meat,No Sweets,Store
+PhD,Single,30s,High,Children,Wine,No Fruits,Meat,No Sweets,Web
+Graduation,Single,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,50s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Married,40s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Master,Married,60s,High,No Children,Wine,Fruits,Meat,No Sweets,Web
+PhD,Together,60s,Medium,Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Married,50s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Widow,40s,High,Children,Wine,No Fruits,Meat,No Sweets,Store
+Graduation,Married,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Married,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,40s,Medium,Children,Wine,No Fruits,Meat,No Sweets,Web
+Graduation,Single,40s,Medium,Children,Wine,No Fruits,Meat,Sweets,Store
+Graduation,Married,50s,High,No Children,Wine,No Fruits,Meat,Sweets,Store
+Graduation,Divorced,30s,Medium,Children,No Wine,No Fruits,No Meat,Sweets,Store
+Graduation,Together,40s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Single,30s,Medium,Children,Wine,No Fruits,Meat,No Sweets,Store
+2n Cycle,Married,20s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,30s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Web
+Master,Single,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Single,40s,High,Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Single,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Master,Single,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Single,40s,Low,No Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Single,20s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Together,50s,High,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Single,40s,Medium,Children,No Wine,No Fruits,No Meat,Sweets,Store
+PhD,Married,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,20s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Widow,50s,Medium,No Children,No Wine,Fruits,Meat,Sweets,Store
+2n Cycle,Married,30s,Medium,Children,No Wine,No Fruits,Meat,No Sweets,Web
+Master,Single,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Single,40s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Together,40s,Medium,Children,Wine,Fruits,No Meat,No Sweets,Web
+Graduation,Together,50s,High,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Together,60s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Divorced,40s,High,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Together,30s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Master,Together,30s,High,Children,Wine,No Fruits,Meat,Sweets,Store
+Graduation,Single,80s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Married,60s,Medium,No Children,Wine,No Fruits,Meat,No Sweets,Web
+Master,Married,40s,High,Children,Wine,Fruits,Meat,No Sweets,Store
+PhD,Together,20s,High,No Children,Wine,No Fruits,Meat,Sweets,Store
+Graduation,Married,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Together,20s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Single,20s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+2n Cycle,Together,30s,Low,Children,No Wine,No Fruits,No Meat,Sweets,Store
+2n Cycle,Divorced,50s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Together,40s,High,No Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Single,30s,Medium,Children,No Wine,No Fruits,Meat,No Sweets,Store
+Graduation,Together,50s,Medium,No Children,No Wine,Fruits,Meat,Sweets,Web
+PhD,Single,50s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Married,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Single,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Divorced,40s,High,Children,Wine,No Fruits,Meat,No Sweets,Web
+PhD,Together,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Married,40s,Medium,Children,Wine,No Fruits,Meat,No Sweets,Store
+2n Cycle,Single,20s,Low,Children,No Wine,Fruits,No Meat,No Sweets,Web
+Graduation,Married,30s,Medium,Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Married,50s,High,Children,Wine,No Fruits,Meat,Sweets,Store
+Graduation,Single,20s,Medium,Children,No Wine,Fruits,No Meat,Sweets,Store
+Graduation,Together,40s,High,Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Married,60s,High,No Children,Wine,No Fruits,Meat,No Sweets,Store
+2n Cycle,Together,30s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Together,80s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Single,30s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Master,Married,40s,Medium,Children,Wine,No Fruits,Meat,No Sweets,Web
+PhD,Married,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,20s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Together,20s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Married,30s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Married,70s,High,No Children,Wine,Fruits,Meat,No Sweets,Web
+Graduation,Married,50s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,20s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,20s,High,Children,Wine,No Fruits,Meat,Sweets,Store
+2n Cycle,Together,20s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,40s,High,Children,Wine,No Fruits,Meat,Sweets,Store
+PhD,Single,50s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,20s,Medium,Children,Wine,No Fruits,Meat,No Sweets,Web
+2n Cycle,Together,40s,High,Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Married,40s,High,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Single,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Together,50s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Divorced,40s,High,Children,Wine,Fruits,Meat,Sweets,Store
+Master,Widow,60s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Web
+PhD,Married,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+2n Cycle,Married,20s,Low,Children,No Wine,Fruits,No Meat,No Sweets,Store
+Graduation,Married,20s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Married,60s,Medium,Children,No Wine,Fruits,No Meat,No Sweets,Store
+Graduation,Married,60s,Low,No Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Single,20s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+2n Cycle,Married,30s,Low,No Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Divorced,50s,Low,No Children,No Wine,No Fruits,No Meat,Sweets,Store
+Master,Divorced,30s,Medium,Children,No Wine,Fruits,Meat,No Sweets,Web
+Graduation,Single,40s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,30s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Married,50s,Medium,Children,Wine,No Fruits,Meat,Sweets,Store
+Graduation,Single,50s,Medium,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,40s,Medium,Children,Wine,Fruits,Meat,Sweets,Web
+Master,Single,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+2n Cycle,Married,30s,High,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,30s,High,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,30s,Medium,Children,Wine,Fruits,Meat,No Sweets,Store
+2n Cycle,Single,40s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Master,Married,20s,Medium,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,50s,Medium,Children,Wine,Fruits,No Meat,Sweets,Store
+2n Cycle,Together,20s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,40s,High,Children,Wine,No Fruits,Meat,Sweets,Store
+Graduation,Widow,60s,High,No Children,Wine,No Fruits,Meat,Sweets,Store
+PhD,Widow,50s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Married,40s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,30s,Medium,Children,No Wine,No Fruits,No Meat,Sweets,Web
+PhD,Single,40s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Together,50s,High,No Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Widow,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,60s,Medium,Children,Wine,Fruits,Meat,No Sweets,Store
+PhD,Together,40s,Medium,Children,Wine,No Fruits,Meat,No Sweets,Store
+Graduation,Married,30s,High,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Together,30s,Medium,Children,Wine,No Fruits,Meat,No Sweets,Store
+Graduation,Married,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Single,20s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,50s,High,Children,Wine,No Fruits,Meat,Sweets,Store
+PhD,Single,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Married,30s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Married,30s,High,Children,Wine,Fruits,No Meat,No Sweets,Store
+Graduation,Married,30s,Medium,Children,Wine,No Fruits,Meat,No Sweets,Web
+Master,Married,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Master,Divorced,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Single,30s,Medium,Children,Wine,Fruits,No Meat,Sweets,Web
+Graduation,Married,30s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Store
+Master,Together,50s,High,No Children,Wine,Fruits,Meat,Sweets,Web
+PhD,Divorced,40s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Master,Together,30s,High,Children,Wine,No Fruits,Meat,Sweets,Store
+Graduation,Married,30s,High,Children,Wine,Fruits,Meat,No Sweets,Store
+Graduation,Married,40s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+2n Cycle,Widow,50s,Medium,No Children,No Wine,No Fruits,Meat,Sweets,Web
+PhD,Together,50s,High,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Divorced,30s,Medium,Children,Wine,No Fruits,Meat,No Sweets,Web
+Graduation,Together,50s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Master,Single,40s,Medium,Children,Wine,No Fruits,Meat,No Sweets,Store
+PhD,Divorced,60s,Medium,No Children,Wine,Fruits,Meat,No Sweets,Web
+Master,Divorced,40s,Medium,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Divorced,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Together,40s,High,Children,Wine,No Fruits,Meat,Sweets,Web
+PhD,Together,60s,High,Children,Wine,No Fruits,Meat,Sweets,Store
+Graduation,Married,60s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Together,60s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Together,50s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Basic,Married,20s,Low,No Children,No Wine,Fruits,No Meat,Sweets,Web
+PhD,Married,20s,High,Children,Wine,No Fruits,Meat,Sweets,Store
+Master,Together,50s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Widow,50s,Medium,No Children,Wine,No Fruits,Meat,No Sweets,Store
+Graduation,Married,30s,High,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Single,20s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,80s,Medium,No Children,No Wine,No Fruits,Meat,No Sweets,Store
+Graduation,Divorced,50s,High,Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Together,30s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Single,30s,High,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,40s,Medium,Children,Wine,Fruits,Meat,No Sweets,Web
+Master,Together,50s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Together,60s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Web
+Master,Single,30s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,50s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Single,20s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Together,50s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Master,Married,60s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Divorced,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Single,20s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,20s,Medium,No Children,Wine,No Fruits,Meat,Sweets,Store
+Graduation,Married,50s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,20s,Medium,Children,No Wine,No Fruits,Meat,Sweets,Store
+Graduation,Married,20s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Together,50s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Master,Married,30s,Medium,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Single,40s,High,No Children,Wine,Fruits,Meat,Sweets,Web
+PhD,Married,50s,Medium,Children,Wine,No Fruits,Meat,Sweets,Store
+2n Cycle,Widow,30s,Medium,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Single,40s,High,Children,Wine,Fruits,Meat,Sweets,Store
+Master,Together,30s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Married,40s,High,Children,Wine,No Fruits,Meat,No Sweets,Store
+Graduation,Single,20s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Together,60s,Medium,Children,Wine,Fruits,Meat,No Sweets,Web
+Graduation,Together,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Divorced,40s,High,No Children,Wine,Fruits,Meat,Sweets,Web
+2n Cycle,Together,50s,Medium,Children,No Wine,No Fruits,No Meat,Sweets,Store
+Master,Single,30s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+2n Cycle,Together,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Widow,40s,Medium,Children,No Wine,No Fruits,Meat,Sweets,Web
+PhD,Single,20s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Web
+PhD,Married,20s,High,No Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Together,30s,Medium,Children,Wine,Fruits,Meat,Sweets,Store
+2n Cycle,Married,20s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Widow,40s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,30s,Medium,Children,No Wine,No Fruits,No Meat,Sweets,Store
+Graduation,Married,40s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Master,Married,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+2n Cycle,Single,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Single,20s,Low,Children,No Wine,Fruits,No Meat,No Sweets,Web
+PhD,Single,40s,High,Children,Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,40s,Low,No Children,No Wine,No Fruits,No Meat,Sweets,Web
+Master,Married,60s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Together,50s,Medium,Children,No Wine,Fruits,Meat,No Sweets,Store
+PhD,Single,30s,Medium,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,20s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+2n Cycle,Married,40s,Low,No Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Together,50s,High,Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Married,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Single,30s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Master,Together,40s,High,Children,Wine,Fruits,Meat,No Sweets,Store
+2n Cycle,Married,40s,High,Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Divorced,40s,Medium,Children,Wine,Fruits,Meat,No Sweets,Store
+PhD,Together,60s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Single,40s,High,Children,Wine,No Fruits,Meat,Sweets,Store
+Master,Together,60s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Single,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Together,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,30s,Medium,Children,No Wine,No Fruits,Meat,No Sweets,Web
+PhD,Married,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+2n Cycle,Single,30s,Medium,Children,No Wine,Fruits,No Meat,Sweets,Web
+PhD,Together,40s,High,Children,Wine,No Fruits,No Meat,No Sweets,Web
+Master,Married,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Married,30s,High,Children,Wine,Fruits,Meat,No Sweets,Store
+Graduation,Married,40s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Married,40s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+PhD,Together,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Together,50s,Medium,Children,Wine,Fruits,No Meat,No Sweets,Web
+PhD,Married,30s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Together,60s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Web
+2n Cycle,Together,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Married,60s,Medium,No Children,No Wine,Fruits,No Meat,Sweets,Store
+Graduation,Together,20s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+2n Cycle,Together,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Widow,50s,High,No Children,Wine,Fruits,Meat,No Sweets,Web
+Master,Married,50s,High,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Together,50s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Together,50s,Low,No Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Single,20s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Master,Married,30s,High,No Children,Wine,Fruits,Meat,Sweets,Web
+Master,Single,40s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Together,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Married,30s,Medium,No Children,Wine,Fruits,Meat,Sweets,Store
+Master,Together,30s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Divorced,40s,Low,Children,No Wine,Fruits,No Meat,No Sweets,Store
+Master,Married,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+2n Cycle,Married,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Together,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Single,50s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Together,50s,High,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Single,50s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Married,60s,High,Children,Wine,Fruits,Meat,No Sweets,Store
+Master,Together,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Master,Single,20s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Widow,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Divorced,50s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Basic,Married,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,40s,High,No Children,Wine,No Fruits,Meat,Sweets,Store
+Master,Single,40s,Medium,No Children,Wine,Fruits,Meat,Sweets,Store
+Master,Widow,60s,Medium,No Children,Wine,Fruits,No Meat,No Sweets,Store
+Basic,Married,30s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,40s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Single,40s,Medium,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,30s,Medium,Children,Wine,Fruits,Meat,Sweets,Web
+Master,Single,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Together,30s,High,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Widow,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Married,50s,Medium,Children,Wine,No Fruits,Meat,Sweets,Store
+PhD,Married,50s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Single,40s,Medium,No Children,No Wine,No Fruits,No Meat,Sweets,Web
+Graduation,Widow,60s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+2n Cycle,Single,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+2n Cycle,Married,50s,High,No Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Married,30s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Single,30s,High,Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Together,50s,High,Children,Wine,Fruits,Meat,Sweets,Web
+PhD,Divorced,30s,Medium,Children,No Wine,Fruits,No Meat,No Sweets,Web
+Graduation,Single,30s,Medium,Children,No Wine,No Fruits,Meat,No Sweets,Web
+PhD,Married,40s,High,Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Together,50s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+2n Cycle,Married,40s,High,Children,Wine,Fruits,Meat,Sweets,Store
+2n Cycle,Single,50s,Medium,No Children,No Wine,Fruits,No Meat,No Sweets,Store
+Graduation,Single,30s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Divorced,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Single,50s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,40s,Medium,Children,Wine,Fruits,Meat,Sweets,Store
+Master,Divorced,60s,High,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,40s,High,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Together,50s,High,Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Together,60s,High,No Children,Wine,Fruits,Meat,No Sweets,Store
+PhD,Divorced,50s,High,Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Single,40s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Web
+Master,Together,60s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Married,40s,Medium,Children,Wine,No Fruits,No Meat,Sweets,Store
+Graduation,Together,40s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Master,Divorced,40s,Medium,Children,Wine,No Fruits,Meat,No Sweets,Store
+Master,Married,30s,High,Children,Wine,No Fruits,Meat,Sweets,Store
+Graduation,Together,50s,High,Children,Wine,No Fruits,Meat,Sweets,Web
+Master,Single,50s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Together,20s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,30s,High,Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Together,60s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Divorced,50s,Medium,Children,Wine,No Fruits,Meat,No Sweets,Web
+Graduation,Divorced,30s,High,No Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Together,50s,High,Children,Wine,No Fruits,No Meat,No Sweets,Store
+2n Cycle,Together,50s,Medium,No Children,No Wine,Fruits,No Meat,Sweets,Store
+PhD,Together,60s,High,Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Single,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Together,40s,Medium,Children,Wine,No Fruits,Meat,Sweets,Store
+Graduation,Married,20s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Widow,30s,Medium,Children,Wine,Fruits,Meat,Sweets,Store
+Basic,Married,30s,Medium,No Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Together,50s,Low,No Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,50s,Low,No Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Together,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Basic,Single,20s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Married,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+2n Cycle,Married,40s,Medium,Children,Wine,Fruits,No Meat,No Sweets,Store
+PhD,Married,40s,Medium,Children,Wine,Fruits,Meat,Sweets,Store
+Master,Single,40s,Medium,Children,Wine,No Fruits,Meat,Sweets,Store
+Graduation,Widow,40s,High,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,30s,High,Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Single,30s,Medium,Children,Wine,No Fruits,Meat,No Sweets,Store
+Graduation,Married,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Married,40s,High,Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Single,30s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+2n Cycle,Married,20s,Medium,Children,No Wine,No Fruits,Meat,No Sweets,Web
+PhD,Single,30s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Divorced,40s,High,Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Divorced,40s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+2n Cycle,Together,20s,Medium,No Children,No Wine,Fruits,Meat,Sweets,Web
+Graduation,Together,50s,Medium,Children,Wine,No Fruits,Meat,No Sweets,Store
+Graduation,Together,40s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Divorced,30s,High,Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Single,30s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Married,20s,High,No Children,No Wine,Fruits,Meat,No Sweets,Store
+PhD,Together,20s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Together,40s,High,No Children,Wine,Fruits,Meat,No Sweets,Web
+PhD,Divorced,50s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Single,40s,High,No Children,Wine,No Fruits,Meat,Sweets,Web
+Master,Together,50s,Medium,Children,No Wine,Fruits,Meat,Sweets,Store
+Basic,Together,50s,Low,No Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Widow,60s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Master,Married,50s,High,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Single,80s,Medium,No Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Single,60s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Single,50s,Medium,No Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Together,50s,High,No Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Divorced,30s,High,Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Married,30s,High,Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Divorced,30s,High,Children,Wine,Fruits,Meat,Sweets,Store
+Master,Single,20s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Master,Divorced,40s,Medium,Children,Wine,Fruits,No Meat,Sweets,Web
+Graduation,Married,20s,High,Children,Wine,Fruits,Meat,Sweets,Web
+PhD,Divorced,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Divorced,60s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Web
+PhD,Together,60s,High,Children,Wine,No Fruits,No Meat,No Sweets,Store
+Master,Married,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,20s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Single,40s,Medium,Children,Wine,Fruits,Meat,No Sweets,Store
+Graduation,Single,30s,Medium,Children,No Wine,No Fruits,No Meat,Sweets,Store
+Graduation,Together,50s,Medium,No Children,Wine,No Fruits,Meat,Sweets,Store
+Graduation,Together,20s,Medium,Children,No Wine,Fruits,Meat,No Sweets,Store
+PhD,Married,30s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+2n Cycle,Divorced,50s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Together,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Divorced,40s,Medium,Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Single,50s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Married,40s,High,Children,Wine,No Fruits,Meat,Sweets,Web
+Graduation,Married,50s,Medium,No Children,Wine,No Fruits,Meat,Sweets,Web
+PhD,Married,20s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,40s,High,No Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Married,30s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Married,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,50s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Master,Divorced,30s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Master,Married,40s,Medium,Children,Wine,No Fruits,Meat,No Sweets,Web
+Graduation,Together,20s,High,No Children,Wine,Fruits,Meat,Sweets,Web
+PhD,Divorced,60s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Together,50s,Medium,Children,Wine,No Fruits,Meat,No Sweets,Web
+Graduation,Married,30s,High,Children,Wine,No Fruits,Meat,Sweets,Store
+PhD,Divorced,60s,Medium,Children,Wine,No Fruits,Meat,No Sweets,Web
+Graduation,Divorced,30s,High,Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Married,60s,High,No Children,Wine,No Fruits,Meat,Sweets,Store
+Graduation,Married,30s,High,Children,Wine,Fruits,Meat,Sweets,Web
+Master,Together,50s,High,Children,Wine,Fruits,Meat,Sweets,Store
+Basic,Married,20s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Together,40s,High,Children,Wine,Fruits,Meat,Sweets,Web
+PhD,Single,50s,High,Children,Wine,No Fruits,Meat,Sweets,Store
+Master,Together,50s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+PhD,Single,60s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+2n Cycle,Together,30s,Medium,Children,No Wine,Fruits,No Meat,No Sweets,Store
+Graduation,Married,40s,High,No Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Together,50s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+2n Cycle,Married,30s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Single,80s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Single,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+2n Cycle,Married,50s,High,No Children,Wine,Fruits,Meat,Sweets,Web
+PhD,Together,30s,High,No Children,Wine,Fruits,Meat,Sweets,Web
+PhD,Together,50s,Medium,Children,Wine,No Fruits,Meat,No Sweets,Store
+Graduation,Widow,30s,Medium,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,40s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Together,30s,High,No Children,Wine,Fruits,Meat,Sweets,Web
+2n Cycle,Together,30s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Together,30s,High,Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Married,40s,Medium,Children,Wine,No Fruits,Meat,No Sweets,Store
+Master,Married,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Married,50s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+2n Cycle,Married,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Single,40s,High,Children,Wine,Fruits,Meat,Sweets,Web
+Master,Married,20s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Single,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Single,50s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,50s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,30s,High,No Children,Wine,Fruits,Meat,No Sweets,Store
+Graduation,Together,20s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+2n Cycle,Married,40s,Medium,Children,No Wine,Fruits,No Meat,Sweets,Store
+Master,Married,50s,High,Children,Wine,No Fruits,Meat,No Sweets,Store
+Graduation,Married,30s,High,Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Married,60s,High,No Children,Wine,Fruits,Meat,No Sweets,Web
+Graduation,Single,40s,Medium,Children,Wine,No Fruits,Meat,Sweets,Web
+Graduation,Married,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Together,50s,Low,Children,Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Together,50s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Single,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Together,50s,High,No Children,Wine,Fruits,Meat,No Sweets,Store
+Master,Single,50s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Single,40s,High,Children,Wine,No Fruits,Meat,Sweets,Web
+PhD,Single,30s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Together,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Single,40s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Together,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Basic,Married,20s,Low,Children,No Wine,Fruits,No Meat,Sweets,Store
+Master,Together,50s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Divorced,40s,Medium,Children,Wine,Fruits,Meat,Sweets,Web
+Master,Married,30s,Medium,Children,Wine,No Fruits,Meat,No Sweets,Store
+Graduation,Divorced,30s,Medium,Children,Wine,Fruits,Meat,No Sweets,Web
+Master,Together,60s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Married,50s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Single,60s,Low,No Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,30s,Medium,Children,Wine,No Fruits,Meat,No Sweets,Store
+Graduation,Single,50s,Medium,Children,No Wine,Fruits,No Meat,Sweets,Store
+Master,Single,40s,Medium,No Children,Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Married,50s,High,Children,Wine,Fruits,Meat,Sweets,Web
+2n Cycle,Divorced,40s,High,Children,Wine,Fruits,Meat,No Sweets,Web
+Graduation,Together,30s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,40s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Master,Married,40s,High,Children,Wine,No Fruits,Meat,Sweets,Store
+Graduation,Widow,50s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,60s,Medium,Children,No Wine,Fruits,No Meat,Sweets,Store
+PhD,Single,60s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,50s,Medium,No Children,Wine,Fruits,Meat,Sweets,Store
+Master,Married,30s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Web
+Master,Married,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,50s,Medium,Children,Wine,Fruits,Meat,No Sweets,Store
+Graduation,Married,30s,Medium,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Single,30s,High,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,30s,Medium,No Children,No Wine,No Fruits,No Meat,Sweets,Store
+Graduation,Single,30s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Single,30s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Master,Married,50s,Medium,Children,Wine,No Fruits,Meat,Sweets,Store
+PhD,Together,20s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Together,40s,High,Children,Wine,No Fruits,Meat,No Sweets,Store
+Graduation,Married,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Single,50s,Low,No Children,No Wine,No Fruits,Meat,Sweets,Web
+Graduation,Married,30s,High,Children,Wine,Fruits,No Meat,No Sweets,Web
+2n Cycle,Married,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Single,30s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,30s,Low,Children,No Wine,No Fruits,No Meat,Sweets,Store
+Graduation,Single,50s,Medium,No Children,Wine,No Fruits,Meat,No Sweets,Web
+Graduation,Married,40s,Low,No Children,No Wine,No Fruits,No Meat,Sweets,Web
+Graduation,Together,50s,High,Children,Wine,Fruits,Meat,Sweets,Web
+2n Cycle,Divorced,50s,High,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,50s,High,Children,Wine,Fruits,Meat,No Sweets,Store
+Graduation,Divorced,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Widow,50s,High,Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Together,20s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Divorced,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Single,80s,Medium,No Children,Wine,Fruits,Meat,No Sweets,Store
+PhD,Together,40s,Medium,Children,Wine,No Fruits,Meat,Sweets,Web
+2n Cycle,Together,30s,Medium,Children,No Wine,No Fruits,No Meat,Sweets,Store
+Graduation,Married,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,50s,High,Children,Wine,Fruits,Meat,Sweets,Store
+Master,Single,30s,Medium,Children,Wine,No Fruits,Meat,No Sweets,Web
+Graduation,Divorced,30s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+2n Cycle,Single,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Single,30s,Medium,Children,Wine,No Fruits,Meat,Sweets,Web
+Graduation,Together,60s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,30s,Medium,Children,No Wine,Fruits,No Meat,Sweets,Store
+Graduation,Single,20s,Medium,Children,No Wine,No Fruits,No Meat,Sweets,Store
+Graduation,Married,30s,Low,Children,No Wine,Fruits,No Meat,No Sweets,Web
+2n Cycle,Married,50s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Together,40s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+2n Cycle,Single,20s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Master,Single,50s,Medium,Children,Wine,No Fruits,Meat,No Sweets,Store
+Graduation,Single,40s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,30s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Single,30s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Web
+PhD,Married,50s,High,Children,Wine,No Fruits,Meat,Sweets,Store
+2n Cycle,Married,50s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Together,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Married,30s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Single,30s,High,Children,Wine,Fruits,Meat,No Sweets,Store
+Master,Married,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,20s,Medium,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Together,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+2n Cycle,Married,20s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Together,40s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Together,40s,Medium,Children,Wine,No Fruits,Meat,No Sweets,Web
+Graduation,Married,20s,Low,No Children,No Wine,No Fruits,No Meat,No Sweets,Store
+2n Cycle,Together,20s,Medium,Children,No Wine,Fruits,Meat,Sweets,Store
+2n Cycle,Single,30s,Medium,Children,No Wine,Fruits,Meat,Sweets,Web
+PhD,Together,30s,Medium,Children,Wine,Fruits,Meat,No Sweets,Store
+Master,Single,40s,Medium,Children,Wine,Fruits,Meat,No Sweets,Store
+Master,Single,20s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Together,30s,Medium,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Together,30s,Medium,Children,No Wine,Fruits,No Meat,No Sweets,Store
+PhD,Together,20s,High,No Children,Wine,No Fruits,Meat,No Sweets,Web
+Graduation,Single,50s,High,Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Together,30s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+2n Cycle,Single,30s,Medium,Children,No Wine,Fruits,No Meat,Sweets,Store
+Master,Together,30s,High,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Together,50s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Master,Divorced,40s,Medium,Children,Wine,No Fruits,Meat,No Sweets,Web
+Graduation,Married,20s,Medium,Children,No Wine,Fruits,No Meat,No Sweets,Store
+Master,Single,50s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+2n Cycle,Together,30s,Low,Children,No Wine,Fruits,No Meat,Sweets,Web
+Graduation,Single,30s,Low,Children,No Wine,No Fruits,No Meat,Sweets,Web
+Graduation,Married,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Divorced,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+2n Cycle,Married,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Single,30s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Together,40s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Single,50s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Married,50s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Together,40s,Medium,Children,Wine,Fruits,Meat,Sweets,Web
+Master,Single,30s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Widow,40s,Medium,Children,Wine,Fruits,No Meat,No Sweets,Web
+Graduation,Married,20s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Basic,Single,20s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Divorced,60s,Medium,No Children,Wine,No Fruits,Meat,Sweets,Web
+PhD,Single,30s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Together,50s,High,Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Divorced,50s,High,Children,Wine,Fruits,Meat,Sweets,Web
+PhD,Married,30s,Medium,Children,Wine,Fruits,Meat,No Sweets,Store
+Graduation,Divorced,20s,Low,Children,No Wine,Fruits,No Meat,No Sweets,Web
+Graduation,Married,50s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Divorced,40s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Together,40s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Together,30s,Medium,No Children,Wine,Fruits,Meat,No Sweets,Store
+Graduation,Together,40s,Medium,Children,Wine,No Fruits,Meat,No Sweets,Store
+Graduation,Single,30s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Single,50s,High,No Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Widow,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Together,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Married,20s,Medium,No Children,Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Single,40s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Together,80s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Widow,40s,Medium,Children,Wine,No Fruits,Meat,No Sweets,Web
+Master,Married,30s,Medium,Children,No Wine,No Fruits,Meat,No Sweets,Store
+Graduation,Single,80s,High,No Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Married,50s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Master,Together,50s,High,No Children,Wine,Fruits,Meat,No Sweets,Store
+PhD,Married,20s,High,No Children,Wine,Fruits,Meat,Sweets,Web
+2n Cycle,Single,50s,Medium,Children,Wine,Fruits,No Meat,Sweets,Store
+PhD,Single,50s,High,No Children,Wine,Fruits,Meat,No Sweets,Store
+PhD,Together,50s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Single,80s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Master,Single,40s,Medium,Children,No Wine,Fruits,No Meat,No Sweets,Store
+PhD,Married,60s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Together,20s,High,Children,Wine,Fruits,Meat,Sweets,Web
+Master,Together,30s,Low,No Children,No Wine,Fruits,Meat,Sweets,Web
+Graduation,Married,30s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+2n Cycle,Single,20s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Single,80s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Married,30s,High,Children,Wine,Fruits,Meat,Sweets,Web
+PhD,Together,30s,High,No Children,Wine,No Fruits,Meat,Sweets,Store
+Graduation,Single,20s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Single,60s,High,Children,Wine,No Fruits,Meat,No Sweets,Web
+Basic,Married,20s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Single,50s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Together,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Together,40s,High,No Children,Wine,Fruits,Meat,Sweets,Web
+PhD,Married,40s,High,Children,Wine,No Fruits,Meat,Sweets,Web
+Graduation,Single,40s,Medium,Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Divorced,30s,High,Children,Wine,No Fruits,Meat,Sweets,Store
+2n Cycle,Single,50s,High,Children,Wine,Fruits,Meat,Sweets,Web
+PhD,Together,40s,Medium,Children,Wine,Fruits,No Meat,No Sweets,Web
+Graduation,Divorced,20s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Together,50s,High,No Children,Wine,Fruits,Meat,Sweets,Web
+Basic,Single,20s,Low,No Children,No Wine,No Fruits,No Meat,Sweets,Store
+PhD,Married,20s,Medium,No Children,Wine,No Fruits,No Meat,No Sweets,Store
+2n Cycle,Married,20s,Medium,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Divorced,30s,High,Children,Wine,Fruits,No Meat,Sweets,Store
+Graduation,Together,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+2n Cycle,Divorced,30s,High,Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Together,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Together,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Divorced,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Single,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Master,Together,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Married,30s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,40s,Medium,Children,Wine,Fruits,No Meat,Sweets,Store
+Graduation,Single,50s,Medium,Children,Wine,No Fruits,Meat,Sweets,Store
+Graduation,Married,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Divorced,50s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Divorced,40s,High,Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Single,40s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Store
+Master,Together,40s,Medium,Children,No Wine,No Fruits,No Meat,Sweets,Store
+PhD,Married,30s,Medium,Children,No Wine,No Fruits,No Meat,Sweets,Store
+Graduation,Married,30s,Medium,Children,No Wine,Fruits,Meat,No Sweets,Store
+Graduation,Together,50s,Medium,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,30s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Married,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Together,30s,Medium,Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Married,20s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Together,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+2n Cycle,Married,20s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+2n Cycle,Divorced,50s,Medium,Children,Wine,Fruits,Meat,Sweets,Web
+Master,Together,40s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,40s,High,No Children,Wine,No Fruits,Meat,Sweets,Store
+Master,Together,50s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Master,Married,40s,Medium,Children,Wine,No Fruits,Meat,No Sweets,Web
+Graduation,Married,50s,Medium,Children,No Wine,No Fruits,No Meat,Sweets,Store
+Graduation,Together,50s,Medium,Children,Wine,Fruits,Meat,No Sweets,Web
+2n Cycle,Widow,50s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Divorced,40s,Low,No Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Master,Divorced,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Divorced,30s,High,Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Married,60s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Married,30s,High,Children,Wine,No Fruits,Meat,No Sweets,Store
+PhD,Married,30s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,40s,High,No Children,Wine,Fruits,Meat,Sweets,Web
+2n Cycle,Single,30s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Widow,50s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Divorced,50s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+2n Cycle,Married,30s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Together,30s,Medium,Children,Wine,No Fruits,Meat,No Sweets,Web
+Graduation,Single,20s,High,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Divorced,50s,High,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Single,80s,Medium,No Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Together,30s,High,No Children,Wine,No Fruits,Meat,Sweets,Store
+Graduation,Together,50s,Medium,Children,No Wine,No Fruits,No Meat,Sweets,Store
+Graduation,Married,30s,Medium,Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Divorced,50s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Widow,50s,High,Children,Wine,Fruits,Meat,No Sweets,Store
+PhD,Single,20s,High,No Children,Wine,Fruits,Meat,Sweets,Web
+2n Cycle,Married,30s,Medium,Children,Wine,Fruits,Meat,No Sweets,Web
+Graduation,Together,20s,Low,Children,No Wine,Fruits,No Meat,Sweets,Store
+PhD,Married,50s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Single,50s,Medium,Children,Wine,Fruits,Meat,Sweets,Store
+Master,Married,50s,High,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Together,50s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,40s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+PhD,Single,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Together,30s,High,Children,Wine,No Fruits,Meat,Sweets,Web
+PhD,Together,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Single,30s,Medium,Children,Wine,Fruits,Meat,Sweets,Web
+Master,Together,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Master,Married,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Married,60s,Medium,No Children,No Wine,Fruits,Meat,Sweets,Store
+2n Cycle,Married,40s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Together,40s,Medium,No Children,Wine,No Fruits,Meat,No Sweets,Store
+Graduation,Married,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Single,30s,Low,No Children,No Wine,Fruits,No Meat,Sweets,Store
+Graduation,Married,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+PhD,Together,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Together,50s,High,Children,Wine,Fruits,Meat,No Sweets,Web
+Master,Together,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,30s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+PhD,Married,40s,Medium,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Single,30s,Medium,Children,No Wine,No Fruits,No Meat,Sweets,Web
+Basic,Single,20s,Low,Children,No Wine,No Fruits,No Meat,Sweets,Web
+PhD,Divorced,50s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+2n Cycle,Together,40s,High,Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Together,40s,High,No Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Single,40s,High,No Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Together,40s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+2n Cycle,Married,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,30s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Single,30s,Medium,No Children,No Wine,Fruits,Meat,Sweets,Web
+PhD,Together,50s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Single,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Married,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,50s,Medium,Children,Wine,No Fruits,Meat,Sweets,Store
+Graduation,Married,50s,High,Children,Wine,Fruits,No Meat,Sweets,Store
+Graduation,Married,50s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Single,20s,Low,No Children,No Wine,Fruits,Meat,Sweets,Web
+Graduation,Together,40s,High,No Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Together,20s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Single,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Married,40s,Medium,Children,No Wine,Fruits,No Meat,No Sweets,Store
+PhD,Married,50s,High,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Together,20s,Medium,Children,No Wine,Fruits,Meat,Sweets,Web
+Graduation,Married,40s,Medium,Children,Wine,Fruits,Meat,No Sweets,Store
+2n Cycle,Married,40s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Together,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Married,60s,High,No Children,Wine,Fruits,Meat,No Sweets,Store
+2n Cycle,Divorced,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Married,20s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Single,20s,High,No Children,Wine,Fruits,Meat,No Sweets,Store
+Graduation,Married,30s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Web
+PhD,Married,60s,Medium,No Children,Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Single,50s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Together,20s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Master,Married,60s,High,Children,Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Together,50s,High,Children,Wine,Fruits,Meat,No Sweets,Store
+PhD,Single,20s,Medium,No Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Divorced,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Married,40s,High,Children,Wine,Fruits,Meat,No Sweets,Store
+Graduation,Married,50s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Single,80s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+2n Cycle,Divorced,40s,High,Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Divorced,50s,Low,No Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,30s,High,No Children,Wine,Fruits,Meat,No Sweets,Store
+PhD,Together,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Together,40s,High,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Together,50s,Medium,Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Married,50s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Together,50s,Medium,No Children,Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Together,50s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Married,30s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+2n Cycle,Together,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Single,40s,Medium,Children,Wine,Fruits,Meat,No Sweets,Store
+PhD,Married,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Single,40s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,40s,Medium,Children,Wine,No Fruits,Meat,Sweets,Web
+Graduation,Married,50s,High,No Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Together,20s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Single,40s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,30s,Medium,Children,Wine,No Fruits,Meat,No Sweets,Web
+Graduation,Single,40s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Together,50s,High,No Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Together,20s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Single,50s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Married,30s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Single,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Together,50s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Single,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+PhD,Married,40s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Single,30s,High,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Divorced,50s,High,Children,Wine,No Fruits,Meat,Sweets,Store
+2n Cycle,Single,20s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Master,Together,20s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,30s,Medium,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Divorced,30s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+2n Cycle,Married,30s,Medium,Children,No Wine,Fruits,Meat,No Sweets,Store
+Graduation,Married,20s,Medium,Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Together,40s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Single,50s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Married,50s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+2n Cycle,Married,40s,Low,No Children,No Wine,No Fruits,No Meat,No Sweets,Store
+2n Cycle,Married,30s,High,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,40s,High,Children,Wine,No Fruits,No Meat,Sweets,Store
+Graduation,Divorced,50s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+2n Cycle,Single,20s,High,No Children,Wine,Fruits,Meat,Sweets,Web
+PhD,Single,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Single,50s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Single,20s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Together,40s,High,Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Married,20s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Married,20s,Medium,No Children,No Wine,Fruits,No Meat,Sweets,Web
+Basic,Together,40s,Low,No Children,No Wine,Fruits,No Meat,No Sweets,Web
+2n Cycle,Married,30s,Medium,Children,Wine,Fruits,No Meat,No Sweets,Web
+Graduation,Single,40s,High,Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Married,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Divorced,30s,Medium,Children,Wine,No Fruits,Meat,Sweets,Store
+Graduation,Single,30s,Medium,Children,No Wine,Fruits,No Meat,Sweets,Store
+Graduation,Married,50s,Medium,Children,Wine,No Fruits,Meat,Sweets,Web
+Graduation,Divorced,40s,Medium,Children,Wine,No Fruits,Meat,Sweets,Web
+Graduation,Single,40s,High,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Together,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Basic,Single,20s,Low,No Children,No Wine,No Fruits,No Meat,No Sweets,Store
+2n Cycle,Divorced,50s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Master,Married,60s,High,Children,Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Single,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Together,30s,High,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Single,20s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+2n Cycle,Together,30s,Medium,Children,Wine,No Fruits,Meat,No Sweets,Store
+PhD,Married,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+PhD,Divorced,40s,High,No Children,Wine,Fruits,Meat,No Sweets,Store
+Master,Divorced,20s,Low,No Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Married,50s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Web
+Master,Together,50s,Medium,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,20s,Medium,Children,No Wine,No Fruits,No Meat,Sweets,Store
+2n Cycle,Divorced,30s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+PhD,Single,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Widow,60s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Master,Together,30s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Together,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Together,50s,Medium,Children,Wine,No Fruits,Meat,Sweets,Web
+PhD,Married,50s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Single,20s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Widow,60s,Medium,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Together,40s,High,Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Married,30s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Together,30s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Master,Married,50s,Medium,Children,Wine,No Fruits,No Meat,Sweets,Store
+PhD,Single,40s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,30s,Medium,Children,Wine,No Fruits,Meat,Sweets,Store
+Graduation,Together,30s,Medium,No Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Married,50s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,60s,Medium,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,40s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Together,50s,Medium,Children,Wine,No Fruits,Meat,Sweets,Web
+Graduation,Married,40s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Together,80s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Married,30s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,30s,High,Children,Wine,Fruits,Meat,Sweets,Store
+2n Cycle,Married,40s,Medium,Children,No Wine,Fruits,No Meat,No Sweets,Store
+Graduation,Together,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,60s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Single,40s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Basic,Married,80s,Low,No Children,No Wine,No Fruits,No Meat,No Sweets,Store
+2n Cycle,Married,30s,Low,No Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Married,20s,High,No Children,Wine,Fruits,Meat,Sweets,Web
+Master,Married,50s,High,Children,Wine,No Fruits,No Meat,No Sweets,Web
+Basic,Together,30s,Low,Children,No Wine,Fruits,No Meat,Sweets,Store
+Master,Married,50s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Store
+Master,Married,50s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,30s,Medium,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Divorced,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Single,20s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Together,60s,Medium,Children,Wine,Fruits,Meat,No Sweets,Web
+Graduation,Married,50s,Medium,Children,Wine,No Fruits,Meat,No Sweets,Store
+PhD,Divorced,50s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Web
+Basic,Single,50s,Low,Children,No Wine,Fruits,No Meat,No Sweets,Store
+Graduation,Single,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Single,20s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Single,50s,High,Children,Wine,No Fruits,Meat,No Sweets,Store
+PhD,Together,40s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Store
+2n Cycle,Married,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Divorced,40s,High,No Children,Wine,Fruits,Meat,Sweets,Web
+Master,Widow,40s,High,Children,Wine,No Fruits,Meat,Sweets,Store
+Graduation,Divorced,50s,Medium,Children,No Wine,No Fruits,No Meat,Sweets,Store
+Graduation,Single,50s,High,Children,No Wine,Fruits,No Meat,No Sweets,Web
+Master,Married,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Divorced,40s,High,Children,Wine,Fruits,Meat,No Sweets,Web
+2n Cycle,Married,40s,Medium,Children,No Wine,Fruits,No Meat,Sweets,Store
+Master,Married,40s,High,Children,Wine,Fruits,Meat,No Sweets,Store
+PhD,Married,30s,High,No Children,Wine,No Fruits,Meat,Sweets,Store
+2n Cycle,Widow,50s,Medium,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,30s,Medium,Children,No Wine,No Fruits,No Meat,Sweets,Store
+Graduation,Married,50s,Medium,Children,Wine,Fruits,Meat,Sweets,Web
+Master,Married,50s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Divorced,30s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Together,50s,High,No Children,Wine,No Fruits,Meat,No Sweets,Store
+Master,Married,50s,Medium,Children,Wine,Fruits,Meat,No Sweets,Web
+PhD,Married,40s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,20s,Low,No Children,No Wine,Fruits,No Meat,Sweets,Store
+PhD,Together,50s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Together,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Together,50s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Together,50s,High,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Together,30s,High,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Together,40s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,30s,Medium,Children,Wine,No Fruits,No Meat,Sweets,Store
+Graduation,Single,30s,Medium,Children,No Wine,No Fruits,No Meat,Sweets,Store
+Graduation,Single,40s,High,Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Together,40s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Together,20s,High,No Children,Wine,No Fruits,Meat,Sweets,Store
+Graduation,Single,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Basic,Single,20s,Low,Children,No Wine,Fruits,No Meat,No Sweets,Web
+Graduation,Married,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+2n Cycle,Divorced,50s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+PhD,Widow,50s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Married,50s,High,Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Single,50s,High,No Children,Wine,Fruits,Meat,No Sweets,Web
+Graduation,Married,20s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Master,Married,30s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Store
+Master,Married,50s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Divorced,40s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Web
+PhD,Together,20s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Divorced,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Together,20s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Together,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,40s,High,Children,Wine,No Fruits,Meat,Sweets,Store
+Master,Together,50s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Together,30s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,20s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Single,50s,Medium,Children,No Wine,Fruits,No Meat,No Sweets,Store
+Basic,Single,20s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Married,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Single,40s,High,Children,Wine,Fruits,Meat,Sweets,Store
+Master,Together,60s,High,No Children,Wine,Fruits,Meat,No Sweets,Store
+PhD,Together,30s,Medium,Children,Wine,No Fruits,Meat,Sweets,Web
+Graduation,Divorced,40s,Low,No Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Basic,Single,80s,Low,Children,No Wine,Fruits,No Meat,Sweets,Web
+Graduation,Together,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Together,30s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,30s,High,Children,Wine,Fruits,Meat,No Sweets,Store
+PhD,Married,40s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,50s,High,Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Married,40s,High,Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Married,30s,High,Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Divorced,40s,High,Children,Wine,Fruits,Meat,Sweets,Web
+PhD,Married,40s,Medium,Children,Wine,No Fruits,Meat,Sweets,Web
+2n Cycle,Married,50s,High,Children,Wine,Fruits,No Meat,No Sweets,Web
+Graduation,Married,30s,High,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Together,40s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Divorced,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Divorced,20s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Master,Together,20s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,50s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Single,50s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Divorced,30s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Married,40s,Medium,Children,Wine,No Fruits,Meat,No Sweets,Web
+Graduation,Together,40s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Married,60s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Web
+2n Cycle,Single,50s,High,No Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Married,60s,Medium,No Children,Wine,Fruits,Meat,No Sweets,Web
+Master,Single,40s,High,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Single,30s,Medium,Children,Wine,Fruits,No Meat,Sweets,Web
+Master,Married,40s,Medium,Children,Wine,No Fruits,Meat,No Sweets,Web
+Master,Divorced,40s,Low,Children,No Wine,No Fruits,No Meat,Sweets,Store
+Graduation,Married,40s,High,Children,Wine,Fruits,Meat,Sweets,Store
+Master,Married,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,40s,Medium,Children,No Wine,No Fruits,No Meat,Sweets,Web
+Graduation,Divorced,30s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,30s,Medium,Children,Wine,No Fruits,Meat,No Sweets,Store
+Graduation,Together,20s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+2n Cycle,Divorced,40s,Medium,No Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Married,50s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Together,60s,Medium,No Children,Wine,Fruits,Meat,Sweets,Web
+Basic,Married,60s,Medium,No Children,No Wine,Fruits,Meat,Sweets,Store
+Graduation,Divorced,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Married,30s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Web
+2n Cycle,Married,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Married,30s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,40s,Medium,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,50s,Low,No Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Single,40s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+2n Cycle,Married,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Single,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Single,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Together,50s,High,Children,No Wine,No Fruits,No Meat,Sweets,Store
+PhD,Together,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Together,40s,Medium,Children,Wine,No Fruits,Meat,Sweets,Store
+Graduation,Married,60s,High,No Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Single,30s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Together,40s,High,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Together,50s,High,No Children,Wine,Fruits,Meat,Sweets,Web
+2n Cycle,Married,20s,Low,No Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Divorced,40s,Medium,Children,Wine,No Fruits,Meat,No Sweets,Web
+Graduation,Married,30s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Together,40s,High,Children,Wine,No Fruits,Meat,No Sweets,Web
+Graduation,Together,30s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Web
+PhD,Married,40s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,20s,High,No Children,Wine,No Fruits,Meat,No Sweets,Store
+Graduation,Together,30s,Medium,Children,Wine,Fruits,Meat,No Sweets,Store
+PhD,Married,50s,High,Children,Wine,Fruits,Meat,Sweets,Store
+Master,Single,50s,High,No Children,Wine,Fruits,Meat,No Sweets,Store
+Master,Together,40s,Medium,Children,Wine,No Fruits,Meat,No Sweets,Web
+2n Cycle,Together,50s,High,Children,Wine,Fruits,Meat,Sweets,Store
+2n Cycle,Married,20s,Medium,Children,No Wine,Fruits,Meat,Sweets,Store
+PhD,Single,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Together,40s,Medium,Children,Wine,Fruits,Meat,No Sweets,Store
+2n Cycle,Married,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Together,20s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Married,50s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Master,Together,50s,Medium,Children,Wine,No Fruits,Meat,Sweets,Web
+Graduation,Together,40s,High,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Single,30s,Medium,Children,Wine,No Fruits,Meat,No Sweets,Web
+Basic,Married,30s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Master,Married,40s,High,Children,Wine,No Fruits,Meat,Sweets,Store
+Graduation,Married,20s,Low,No Children,No Wine,No Fruits,No Meat,No Sweets,Web
+PhD,Married,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Single,20s,Low,No Children,No Wine,Fruits,No Meat,No Sweets,Web
+PhD,Together,60s,High,No Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Married,30s,Medium,Children,No Wine,No Fruits,No Meat,Sweets,Web
+Graduation,Married,40s,Medium,Children,No Wine,Fruits,Meat,Sweets,Web
+Graduation,Married,40s,High,Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Single,60s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Master,Married,30s,High,Children,Wine,No Fruits,Meat,Sweets,Store
+Graduation,Married,30s,Medium,Children,No Wine,Fruits,No Meat,Sweets,Web
+Graduation,Together,20s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Master,Married,20s,Medium,No Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Widow,50s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Single,20s,Medium,Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Together,40s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Store
+Master,Married,30s,Medium,Children,Wine,No Fruits,Meat,No Sweets,Store
+Master,Married,60s,High,Children,Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,20s,Low,No Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Basic,Single,20s,Low,Children,No Wine,No Fruits,No Meat,Sweets,Store
+Graduation,Single,30s,Medium,Children,No Wine,No Fruits,No Meat,Sweets,Store
+2n Cycle,Married,50s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Married,20s,Medium,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Together,30s,High,Children,Wine,No Fruits,Meat,Sweets,Web
+PhD,Divorced,40s,High,No Children,Wine,Fruits,Meat,No Sweets,Store
+PhD,Together,50s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Single,80s,High,No Children,Wine,No Fruits,Meat,Sweets,Web
+Graduation,Together,20s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,40s,High,Children,No Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,20s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Single,40s,High,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,30s,Medium,Children,No Wine,Fruits,No Meat,Sweets,Web
+PhD,Single,60s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Single,40s,High,No Children,Wine,Fruits,Meat,Sweets,Web
+Master,Single,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Together,40s,Medium,Children,Wine,Fruits,Meat,No Sweets,Web
+Basic,Married,80s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Divorced,30s,Medium,Children,Wine,Fruits,Meat,Sweets,Store
+2n Cycle,Together,60s,Medium,No Children,Wine,Fruits,Meat,Sweets,Store
+2n Cycle,Divorced,30s,Medium,Children,Wine,No Fruits,Meat,No Sweets,Store
+Master,Single,50s,High,Children,Wine,No Fruits,Meat,Sweets,Web
+Graduation,Single,30s,Medium,Children,Wine,No Fruits,Meat,No Sweets,Web
+Graduation,Married,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Divorced,40s,Medium,Children,Wine,Fruits,No Meat,Sweets,Web
+Graduation,Married,50s,High,Children,Wine,Fruits,No Meat,No Sweets,Store
+Graduation,Single,30s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Store
+2n Cycle,Together,50s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Single,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Divorced,50s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Married,40s,Medium,Children,Wine,No Fruits,Meat,No Sweets,Store
+Graduation,Single,50s,Medium,Children,Wine,No Fruits,No Meat,Sweets,Web
+Graduation,Single,30s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,20s,Low,Children,No Wine,Fruits,No Meat,No Sweets,Web
+Master,Together,40s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Store
+Master,Divorced,50s,Medium,Children,No Wine,Fruits,Meat,No Sweets,Web
+2n Cycle,Together,50s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,30s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,60s,High,No Children,Wine,Fruits,Meat,Sweets,Web
+2n Cycle,Together,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Together,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Together,30s,High,No Children,Wine,Fruits,Meat,Sweets,Web
+Master,Married,30s,Medium,Children,Wine,No Fruits,Meat,No Sweets,Web
+Graduation,Together,30s,Low,Children,No Wine,Fruits,No Meat,No Sweets,Store
+PhD,Together,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+2n Cycle,Single,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Married,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Married,50s,High,Children,Wine,No Fruits,Meat,No Sweets,Store
+Graduation,Divorced,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Divorced,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Divorced,40s,High,Children,Wine,Fruits,Meat,No Sweets,Web
+PhD,Married,40s,Medium,Children,No Wine,Fruits,Meat,No Sweets,Web
+Graduation,Married,50s,High,Children,Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Married,30s,High,Children,Wine,Fruits,No Meat,No Sweets,Web
+Graduation,Married,50s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Single,50s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Web
+Master,Married,40s,Medium,Children,Wine,No Fruits,Meat,Sweets,Web
+PhD,Married,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Together,60s,Medium,Children,Wine,Fruits,Meat,No Sweets,Web
+Master,Married,50s,High,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,60s,Medium,Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Divorced,50s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+PhD,Married,30s,High,Children,Wine,No Fruits,Meat,Sweets,Store
+Graduation,Married,30s,High,Children,Wine,Fruits,Meat,No Sweets,Store
+Master,Married,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,60s,High,No Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Single,20s,Medium,Children,No Wine,Fruits,No Meat,Sweets,Web
+Graduation,Single,30s,Medium,Children,Wine,Fruits,Meat,No Sweets,Store
+Basic,Together,40s,Low,No Children,No Wine,Fruits,No Meat,No Sweets,Web
+Graduation,Together,60s,Medium,No Children,No Wine,Fruits,No Meat,Sweets,Store
+Graduation,Married,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,30s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Together,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+2n Cycle,Single,30s,High,No Children,Wine,Fruits,Meat,No Sweets,Store
+Graduation,Single,40s,High,Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Together,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,50s,Low,No Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,40s,Medium,Children,No Wine,Fruits,No Meat,No Sweets,Store
+PhD,Married,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Married,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+2n Cycle,Single,50s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Single,30s,Medium,No Children,No Wine,Fruits,Meat,Sweets,Web
+Master,Married,20s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+2n Cycle,Divorced,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,20s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Single,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Divorced,40s,High,Children,Wine,Fruits,Meat,Sweets,Web
+2n Cycle,Married,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,50s,High,Children,Wine,No Fruits,No Meat,No Sweets,Web
+2n Cycle,Together,20s,Low,No Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,40s,Medium,No Children,No Wine,Fruits,No Meat,Sweets,Store
+Graduation,Married,20s,Medium,Children,No Wine,Fruits,No Meat,No Sweets,Store
+Graduation,Together,50s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Married,60s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Together,30s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Master,Widow,60s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Together,60s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,50s,Medium,No Children,No Wine,Fruits,Meat,Sweets,Store
+2n Cycle,Married,40s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,50s,Medium,Children,Wine,No Fruits,Meat,No Sweets,Web
+PhD,Together,20s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+2n Cycle,Together,30s,High,Children,Wine,Fruits,Meat,No Sweets,Store
+Graduation,Together,30s,Medium,Children,No Wine,No Fruits,Meat,No Sweets,Store
+Graduation,Married,40s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Single,50s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Single,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Together,40s,Medium,No Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Together,40s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Divorced,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Together,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Single,40s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Married,30s,Medium,No Children,Wine,Fruits,Meat,Sweets,Store
+Master,Widow,60s,High,Children,Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Together,50s,Medium,Children,Wine,Fruits,Meat,No Sweets,Store
+PhD,Together,50s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Together,30s,Low,Children,No Wine,Fruits,No Meat,No Sweets,Web
+Master,Married,20s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Divorced,40s,Medium,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,50s,Medium,Children,Wine,No Fruits,Meat,No Sweets,Web
+Graduation,Together,50s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Married,60s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Together,40s,High,Children,Wine,Fruits,Meat,Sweets,Web
+2n Cycle,Married,40s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Single,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Married,40s,High,Children,Wine,Fruits,Meat,No Sweets,Web
+Graduation,Married,50s,High,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Together,50s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Single,50s,High,No Children,Wine,Fruits,Meat,No Sweets,Store
+PhD,Married,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Single,20s,Medium,No Children,Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Married,50s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Single,30s,High,Children,Wine,Fruits,Meat,No Sweets,Store
+Graduation,Together,50s,High,Children,Wine,Fruits,Meat,Sweets,Store
+2n Cycle,Together,30s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,30s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+2n Cycle,Together,30s,High,Children,Wine,Fruits,Meat,Sweets,Web
+Master,Single,30s,High,Children,Wine,Fruits,Meat,Sweets,Store
+Master,Together,40s,High,No Children,Wine,Fruits,Meat,Sweets,Web
+PhD,Together,60s,High,Children,Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Married,50s,High,Children,Wine,Fruits,Meat,Sweets,Web
+Master,Together,30s,Medium,Children,Wine,Fruits,Meat,No Sweets,Web
+PhD,Married,40s,High,Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Divorced,60s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Together,20s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Together,30s,Medium,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,20s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,50s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Divorced,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Together,40s,Medium,Children,Wine,No Fruits,Meat,No Sweets,Store
+Graduation,Together,50s,High,Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Married,20s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Master,Together,30s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Store
+2n Cycle,Divorced,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,30s,Medium,Children,Wine,Fruits,Meat,Sweets,Web
+Master,Married,30s,Medium,Children,Wine,No Fruits,Meat,No Sweets,Store
+PhD,Single,50s,Medium,No Children,Wine,Fruits,Meat,Sweets,Web
+Master,Married,30s,High,No Children,Wine,No Fruits,Meat,No Sweets,Store
+Master,Married,30s,Medium,Children,Wine,No Fruits,Meat,Sweets,Store
+2n Cycle,Together,30s,Medium,Children,Wine,Fruits,Meat,Sweets,Web
+PhD,Married,40s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Together,50s,Medium,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,20s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Master,Single,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Married,40s,High,Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Married,20s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+2n Cycle,Together,30s,Low,No Children,No Wine,Fruits,No Meat,Sweets,Web
+Graduation,Single,30s,Medium,Children,No Wine,Fruits,Meat,Sweets,Web
+Graduation,Married,40s,Medium,Children,Wine,No Fruits,Meat,No Sweets,Web
+Graduation,Married,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Married,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Single,40s,Medium,Children,No Wine,Fruits,No Meat,No Sweets,Store
+PhD,Single,20s,High,No Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Together,40s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Single,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Married,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Single,30s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Married,30s,Medium,Children,Wine,No Fruits,Meat,Sweets,Store
+PhD,Widow,60s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Together,50s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+PhD,Single,20s,High,No Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Together,50s,Low,Children,No Wine,Fruits,No Meat,No Sweets,Store
+2n Cycle,Married,30s,Medium,Children,Wine,Fruits,Meat,Sweets,Store
+2n Cycle,Together,50s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Web
+PhD,Married,30s,High,Children,Wine,Fruits,Meat,Sweets,Store
+Master,Single,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+2n Cycle,Married,20s,Low,Children,No Wine,Fruits,No Meat,No Sweets,Web
+2n Cycle,Single,20s,Low,Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Single,20s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Widow,50s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Married,40s,High,Children,Wine,No Fruits,Meat,No Sweets,Store
+Master,Single,40s,Medium,Children,Wine,Fruits,Meat,No Sweets,Store
+Graduation,Together,20s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Together,50s,High,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,30s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Single,50s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Divorced,40s,Medium,Children,Wine,No Fruits,Meat,No Sweets,Store
+Master,Together,20s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+2n Cycle,Married,20s,Medium,No Children,No Wine,Fruits,No Meat,No Sweets,Store
+Graduation,Single,40s,Medium,No Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Widow,50s,High,Children,Wine,Fruits,Meat,Sweets,Web
+2n Cycle,Married,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Divorced,60s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+2n Cycle,Married,40s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,50s,High,Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Together,40s,High,No Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Married,30s,High,Children,Wine,Fruits,Meat,Sweets,Store
+Master,Married,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Together,40s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Divorced,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Divorced,50s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Divorced,30s,High,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,20s,Medium,Children,No Wine,Fruits,No Meat,No Sweets,Store
+Master,Married,30s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Married,20s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Divorced,50s,High,Children,No Wine,Fruits,Meat,Sweets,Web
+Graduation,Married,20s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Single,50s,Medium,Children,Wine,Fruits,Meat,No Sweets,Web
+Master,Single,40s,High,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Together,50s,High,Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Married,60s,Medium,Children,Wine,No Fruits,Meat,No Sweets,Web
+PhD,Married,50s,High,Children,Wine,No Fruits,Meat,Sweets,Web
+PhD,Single,60s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,50s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Single,20s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Master,Married,20s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,30s,Medium,Children,Wine,Fruits,Meat,Sweets,Web
+PhD,Together,50s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Together,20s,Medium,Children,No Wine,No Fruits,Meat,No Sweets,Web
+PhD,Together,60s,High,No Children,Wine,No Fruits,Meat,Sweets,Store
+Graduation,Married,80s,Medium,No Children,No Wine,No Fruits,Meat,No Sweets,Store
+Master,Single,30s,High,Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Together,50s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Together,60s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Divorced,60s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Master,Together,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Divorced,20s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Divorced,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Together,50s,Medium,Children,No Wine,Fruits,No Meat,Sweets,Store
+Graduation,Married,40s,High,No Children,No Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,30s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,20s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Together,40s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,50s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Basic,Together,20s,Low,Children,No Wine,No Fruits,No Meat,Sweets,Web
+Master,Together,40s,Medium,Children,Wine,No Fruits,Meat,No Sweets,Web
+PhD,Single,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Single,30s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Web
+Master,Together,50s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Single,20s,Medium,Children,Wine,No Fruits,Meat,Sweets,Web
+Graduation,Married,40s,High,Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Married,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Married,40s,Medium,Children,Wine,No Fruits,Meat,No Sweets,Web
+Master,Married,50s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Master,Divorced,50s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Together,50s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,50s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Married,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Married,30s,High,Children,Wine,Fruits,Meat,Sweets,Store
+2n Cycle,Single,20s,Medium,Children,Wine,Fruits,Meat,Sweets,Web
+Master,Married,30s,High,Children,Wine,No Fruits,No Meat,No Sweets,Web
+PhD,Married,40s,High,Children,Wine,Fruits,Meat,No Sweets,Store
+Graduation,Single,20s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+2n Cycle,Married,30s,Low,No Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Single,20s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Single,30s,Medium,Children,No Wine,No Fruits,Meat,No Sweets,Web
+Graduation,Married,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,20s,Medium,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Together,20s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Single,20s,Medium,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,40s,High,Children,No Wine,Fruits,Meat,Sweets,Store
+Master,Married,50s,Medium,Children,Wine,No Fruits,Meat,No Sweets,Web
+PhD,Together,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,40s,Low,Children,No Wine,Fruits,No Meat,Sweets,Store
+2n Cycle,Together,20s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Single,50s,Medium,Children,Wine,No Fruits,Meat,No Sweets,Web
+Graduation,Together,40s,Medium,Children,Wine,Fruits,No Meat,Sweets,Store
+PhD,Married,50s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Web
+PhD,Widow,40s,Medium,Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Divorced,40s,Medium,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Together,20s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+2n Cycle,Together,30s,Medium,Children,No Wine,Fruits,No Meat,No Sweets,Web
+PhD,Together,60s,High,Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Together,40s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Married,50s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Together,30s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Together,60s,Medium,Children,Wine,Fruits,Meat,Sweets,Web
+PhD,Married,50s,Medium,Children,Wine,No Fruits,Meat,No Sweets,Web
+Graduation,Divorced,50s,Medium,Children,Wine,No Fruits,Meat,Sweets,Web
+Graduation,Married,60s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Together,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Together,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Divorced,40s,High,Children,Wine,No Fruits,Meat,Sweets,Store
+Graduation,Together,30s,Medium,Children,Wine,Fruits,Meat,Sweets,Web
+Basic,Together,30s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+2n Cycle,Together,30s,High,Children,Wine,Fruits,Meat,Sweets,Store
+Master,Divorced,50s,Medium,No Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Married,30s,Medium,Children,Wine,No Fruits,Meat,No Sweets,Web
+Graduation,Single,30s,Medium,No Children,Wine,Fruits,Meat,No Sweets,Store
+Graduation,Divorced,40s,Medium,No Children,Wine,Fruits,Meat,Sweets,Web
+PhD,Widow,60s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,20s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Single,50s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Widow,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Together,30s,High,No Children,No Wine,No Fruits,Meat,No Sweets,Web
+PhD,Widow,60s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Single,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Together,50s,Medium,Children,Wine,No Fruits,Meat,No Sweets,Web
+PhD,Married,50s,High,Children,Wine,Fruits,Meat,Sweets,Store
+2n Cycle,Together,30s,Medium,Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Single,30s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Single,50s,Medium,Children,Wine,Fruits,Meat,No Sweets,Store
+Graduation,Together,40s,Medium,Children,No Wine,Fruits,Meat,No Sweets,Web
+Graduation,Divorced,30s,High,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Single,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+PhD,Single,20s,Medium,No Children,No Wine,No Fruits,No Meat,No Sweets,Store
+2n Cycle,Single,20s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Married,40s,High,Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Married,50s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Married,40s,High,Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Married,40s,High,Children,Wine,Fruits,Meat,Sweets,Web
+PhD,Single,20s,Medium,No Children,Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Together,60s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Master,Married,20s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+2n Cycle,Married,50s,High,No Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Married,40s,High,Children,Wine,Fruits,Meat,Sweets,Store
+2n Cycle,Together,20s,Low,No Children,No Wine,No Fruits,No Meat,Sweets,Store
+Graduation,Married,30s,Medium,Children,No Wine,Fruits,Meat,Sweets,Web
+Basic,Single,30s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Married,30s,Medium,Children,Wine,No Fruits,Meat,No Sweets,Store
+Graduation,Married,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Together,30s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Together,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+PhD,Married,50s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Married,20s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,50s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Divorced,30s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Together,40s,Medium,Children,Wine,No Fruits,Meat,No Sweets,Web
+Graduation,Single,40s,Medium,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Single,20s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Single,60s,Medium,Children,Wine,No Fruits,Meat,No Sweets,Store
+Master,Divorced,20s,High,No Children,Wine,Fruits,Meat,Sweets,Web
+PhD,Married,20s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+2n Cycle,Single,30s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,20s,Low,No Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Divorced,50s,High,Children,Wine,Fruits,Meat,No Sweets,Store
+2n Cycle,Together,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Married,20s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Divorced,50s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Widow,60s,High,Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Married,30s,High,Children,Wine,Fruits,Meat,Sweets,Store
+Master,Married,50s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Single,20s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Together,30s,Medium,Children,Wine,No Fruits,Meat,No Sweets,Store
+Basic,Together,30s,Low,Children,No Wine,Fruits,No Meat,Sweets,Web
+PhD,Married,20s,Medium,Children,No Wine,No Fruits,Meat,No Sweets,Store
+Master,Together,50s,Medium,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Together,40s,Medium,Children,Wine,No Fruits,Meat,No Sweets,Web
+Graduation,Married,30s,High,Children,Wine,No Fruits,Meat,Sweets,Store
+PhD,Married,30s,Medium,Children,Wine,Fruits,No Meat,Sweets,Store
+Graduation,Married,20s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Master,Married,50s,High,Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Together,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,40s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Basic,Single,80s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Together,20s,Medium,Children,No Wine,Fruits,Meat,Sweets,Web
+Graduation,Single,50s,High,Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Married,30s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Together,30s,Medium,Children,No Wine,No Fruits,Meat,Sweets,Web
+PhD,Married,30s,Medium,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,30s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Married,20s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Single,20s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Widow,40s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Single,20s,Medium,Children,Wine,No Fruits,Meat,No Sweets,Web
+Master,Single,30s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Together,50s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Store
+Basic,Single,40s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Together,50s,High,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,60s,High,Children,Wine,No Fruits,Meat,Sweets,Store
+PhD,Together,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,50s,Low,No Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Divorced,50s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Together,40s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+2n Cycle,Single,50s,High,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Divorced,50s,High,Children,Wine,No Fruits,Meat,Sweets,Web
+Graduation,Single,40s,High,Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Married,40s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,50s,Medium,Children,Wine,Fruits,Meat,No Sweets,Web
+PhD,Married,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Together,40s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Together,20s,Medium,Children,Wine,No Fruits,Meat,Sweets,Web
+PhD,Single,60s,Medium,No Children,No Wine,Fruits,No Meat,Sweets,Web
+Graduation,Together,60s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Divorced,40s,Medium,Children,Wine,No Fruits,Meat,No Sweets,Web
+Graduation,Married,50s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Basic,Together,60s,Medium,No Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Married,60s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Divorced,40s,High,Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Married,60s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Together,50s,High,Children,Wine,Fruits,Meat,No Sweets,Web
+Graduation,Married,30s,Medium,Children,No Wine,No Fruits,Meat,No Sweets,Web
+2n Cycle,Single,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Widow,60s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Widow,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Basic,Single,30s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Single,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+PhD,Married,50s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,30s,High,Children,Wine,Fruits,Meat,Sweets,Web
+2n Cycle,Married,40s,High,Children,Wine,Fruits,Meat,Sweets,Store
+2n Cycle,Divorced,30s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Together,30s,Medium,Children,Wine,No Fruits,Meat,Sweets,Store
+Graduation,Married,30s,High,Children,Wine,Fruits,Meat,Sweets,Web
+2n Cycle,Married,20s,Low,Children,No Wine,No Fruits,No Meat,Sweets,Store
+Graduation,Married,50s,High,Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Single,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Together,20s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Basic,Married,50s,Medium,No Children,No Wine,No Fruits,No Meat,Sweets,Store
+Master,Married,30s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Web
+PhD,Divorced,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+PhD,Married,60s,Medium,No Children,Wine,No Fruits,Meat,No Sweets,Web
+Graduation,Single,20s,High,No Children,Wine,Fruits,Meat,No Sweets,Store
+PhD,Together,50s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Together,50s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Single,20s,Medium,Children,No Wine,No Fruits,Meat,No Sweets,Store
+PhD,Married,30s,Medium,No Children,Wine,No Fruits,No Meat,No Sweets,Web
+PhD,Together,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+2n Cycle,Married,20s,High,No Children,No Wine,Fruits,Meat,Sweets,Store
+Basic,Single,30s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Single,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,40s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Together,50s,High,Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Together,40s,Medium,Children,Wine,Fruits,No Meat,No Sweets,Web
+Graduation,Single,40s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Married,30s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Together,20s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+2n Cycle,Together,30s,High,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Together,30s,High,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Together,60s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Single,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+2n Cycle,Together,40s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Single,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Together,50s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Web
+Master,Married,50s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Single,50s,High,Children,Wine,Fruits,Meat,Sweets,Store
+Master,Single,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Together,40s,High,Children,Wine,Fruits,Meat,Sweets,Web
+2n Cycle,Together,30s,High,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Together,30s,High,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Together,30s,High,Children,Wine,No Fruits,Meat,Sweets,Store
+Master,Together,60s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Single,40s,Medium,Children,Wine,No Fruits,Meat,Sweets,Store
+Graduation,Married,60s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Together,50s,Medium,Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Single,40s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Single,40s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,50s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Single,30s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Together,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Single,40s,Medium,Children,Wine,Fruits,Meat,Sweets,Store
+Master,Married,40s,High,No Children,Wine,No Fruits,Meat,Sweets,Store
+Graduation,Together,80s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Divorced,50s,High,Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Together,20s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+2n Cycle,Together,20s,Medium,Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Single,60s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,50s,Medium,Children,Wine,No Fruits,Meat,Sweets,Store
+PhD,Together,50s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Together,40s,High,Children,Wine,Fruits,Meat,Sweets,Web
+Master,Divorced,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Single,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,40s,High,Children,Wine,Fruits,Meat,Sweets,Store
+2n Cycle,Together,30s,Medium,No Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Married,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Widow,40s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Together,20s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Master,Married,50s,High,No Children,Wine,Fruits,Meat,No Sweets,Store
+Master,Together,30s,Low,Children,No Wine,Fruits,No Meat,Sweets,Web
+Graduation,Single,20s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Together,50s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Web
+PhD,Married,40s,Medium,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Together,30s,Medium,Children,No Wine,No Fruits,Meat,No Sweets,Web
+Graduation,Married,30s,Medium,Children,No Wine,No Fruits,No Meat,Sweets,Store
+Graduation,Together,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Married,40s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,50s,Medium,Children,Wine,No Fruits,No Meat,Sweets,Store
+2n Cycle,Married,50s,High,Children,Wine,Fruits,No Meat,No Sweets,Web
+PhD,Divorced,50s,Medium,Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Together,20s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Master,Widow,50s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Master,Divorced,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Together,50s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Master,Together,40s,High,Children,Wine,No Fruits,Meat,Sweets,Web
+PhD,Married,30s,High,No Children,Wine,Fruits,Meat,Sweets,Web
+PhD,Married,40s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Married,20s,Medium,No Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Married,40s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Single,20s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+2n Cycle,Single,80s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Together,30s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Married,30s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Together,50s,High,No Children,Wine,Fruits,Meat,No Sweets,Web
+PhD,Single,20s,High,No Children,Wine,Fruits,Meat,Sweets,Web
+Master,Divorced,40s,High,Children,Wine,No Fruits,Meat,Sweets,Web
+Master,Single,60s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Together,30s,Low,No Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Married,30s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Together,20s,Medium,Children,Wine,Fruits,Meat,Sweets,Web
+PhD,Married,40s,High,Children,Wine,Fruits,Meat,No Sweets,Web
+2n Cycle,Divorced,30s,Low,No Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Single,30s,High,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,40s,High,Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Married,20s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Widow,30s,High,Children,Wine,Fruits,Meat,No Sweets,Web
+Master,Together,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Single,20s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Together,40s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Web
+2n Cycle,Together,30s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Divorced,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Divorced,40s,High,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Single,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Single,60s,High,Children,Wine,Fruits,Meat,No Sweets,Store
+Graduation,Divorced,50s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+2n Cycle,Single,20s,Low,No Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Widow,50s,Medium,No Children,No Wine,Fruits,Meat,Sweets,Web
+Graduation,Married,50s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Together,60s,High,Children,Wine,No Fruits,Meat,Sweets,Store
+Graduation,Divorced,30s,High,Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Married,20s,High,No Children,Wine,Fruits,Meat,Sweets,Web
+PhD,Married,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Divorced,40s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Web
+Master,Single,40s,High,Children,Wine,Fruits,Meat,No Sweets,Store
+PhD,Single,20s,Medium,No Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Single,20s,Medium,Children,Wine,No Fruits,Meat,Sweets,Web
+PhD,Married,50s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Divorced,40s,High,No Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Together,30s,High,Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Married,20s,Medium,Children,Wine,No Fruits,Meat,No Sweets,Web
+PhD,Married,20s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Master,Together,20s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,20s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Divorced,40s,High,Children,Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Single,30s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Divorced,60s,Medium,Children,Wine,Fruits,No Meat,No Sweets,Store
+Basic,Together,30s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Single,50s,High,No Children,Wine,Fruits,Meat,Sweets,Web
+PhD,Single,60s,High,No Children,No Wine,No Fruits,No Meat,Sweets,Web
+PhD,Together,60s,Medium,Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Married,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Single,20s,Low,No Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Married,20s,High,No Children,Wine,No Fruits,Meat,No Sweets,Store
+Graduation,Divorced,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Married,40s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,50s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Married,40s,High,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Together,20s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Married,50s,Medium,No Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Married,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+2n Cycle,Together,50s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Single,40s,High,Children,Wine,Fruits,Meat,Sweets,Web
+Master,Together,40s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,40s,High,Children,Wine,Fruits,Meat,Sweets,Web
+PhD,Widow,40s,Medium,Children,Wine,No Fruits,Meat,No Sweets,Web
+Graduation,Single,40s,Medium,Children,Wine,No Fruits,Meat,No Sweets,Store
+Graduation,Married,20s,Low,No Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Single,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Single,30s,Low,No Children,No Wine,Fruits,No Meat,Sweets,Store
+PhD,Together,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+2n Cycle,Single,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+2n Cycle,Married,30s,High,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Single,50s,High,No Children,Wine,Fruits,Meat,Sweets,Web
+Master,Single,60s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Single,50s,High,Children,Wine,Fruits,Meat,Sweets,Web
+Master,Married,30s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Married,40s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,40s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Single,50s,High,No Children,Wine,Fruits,Meat,Sweets,Web
+Master,Married,40s,High,Children,Wine,No Fruits,Meat,Sweets,Web
+PhD,Married,30s,High,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Married,60s,High,Children,Wine,Fruits,Meat,Sweets,Store
+Master,Married,20s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Master,Married,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Married,60s,High,Children,Wine,Fruits,Meat,Sweets,Store
+2n Cycle,Together,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Single,50s,Medium,Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Widow,60s,Medium,Children,Wine,Fruits,No Meat,No Sweets,Web
+Master,Married,50s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,30s,Medium,Children,No Wine,No Fruits,No Meat,Sweets,Store
+PhD,Married,20s,High,No Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Together,60s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Single,30s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,20s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Master,Married,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Widow,60s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,20s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Master,Married,30s,High,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Single,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Together,50s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Single,70s,Medium,No Children,Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,30s,Medium,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Single,60s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Together,30s,High,No Children,Wine,Fruits,Meat,Sweets,Web
+PhD,Single,40s,High,No Children,Wine,No Fruits,Meat,No Sweets,Store
+PhD,Widow,60s,High,No Children,Wine,No Fruits,Meat,Sweets,Store
+Graduation,Together,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Single,50s,Medium,Children,Wine,Fruits,Meat,No Sweets,Web
+Graduation,Single,20s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Widow,60s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Married,40s,High,Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Widow,40s,High,No Children,Wine,Fruits,Meat,No Sweets,Store
+Graduation,Married,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Single,50s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Divorced,40s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Together,60s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Together,30s,High,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Together,40s,High,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Widow,60s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Master,Together,30s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Divorced,40s,Medium,Children,Wine,No Fruits,Meat,Sweets,Web
+Graduation,Single,20s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Together,40s,Medium,Children,Wine,Fruits,No Meat,No Sweets,Web
+Graduation,Married,30s,Medium,Children,Wine,Fruits,Meat,Sweets,Web
+2n Cycle,Married,40s,Medium,Children,Wine,Fruits,No Meat,No Sweets,Store
+Graduation,Married,40s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+2n Cycle,Married,40s,Medium,No Children,No Wine,Fruits,Meat,Sweets,Store
+PhD,Single,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Master,Single,20s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,20s,Low,Children,No Wine,Fruits,Meat,Sweets,Web
+PhD,Divorced,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Married,60s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Master,Married,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Single,30s,Medium,Children,Wine,No Fruits,Meat,No Sweets,Web
+Graduation,Together,50s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,30s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,20s,Medium,No Children,No Wine,No Fruits,Meat,Sweets,Web
+Graduation,Married,20s,Low,Children,No Wine,Fruits,No Meat,No Sweets,Store
+Graduation,Married,50s,Medium,Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Divorced,40s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Master,Married,40s,Medium,Children,No Wine,Fruits,No Meat,Sweets,Store
+Master,Single,60s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Single,50s,High,Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Together,50s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+2n Cycle,Married,30s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,30s,High,No Children,Wine,Fruits,Meat,Sweets,Web
+PhD,Together,30s,Medium,Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Married,30s,Medium,Children,Wine,No Fruits,Meat,No Sweets,Web
+2n Cycle,Single,30s,High,Children,No Wine,Fruits,Meat,Sweets,Store
+Graduation,Single,40s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Divorced,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,40s,Low,Children,No Wine,Fruits,No Meat,Sweets,Web
+Graduation,Single,40s,Medium,No Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Single,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,40s,High,Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Divorced,40s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Web
+PhD,Divorced,50s,High,Children,Wine,No Fruits,No Meat,Sweets,Store
+PhD,Together,40s,High,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Divorced,50s,High,No Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Single,20s,Medium,Children,No Wine,No Fruits,No Meat,Sweets,Web
+Graduation,Together,30s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Basic,Married,30s,Medium,No Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Single,50s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+2n Cycle,Married,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,20s,Medium,No Children,No Wine,No Fruits,No Meat,Sweets,Web
+Graduation,Together,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Divorced,60s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Together,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Together,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Married,20s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,50s,Medium,Children,Wine,Fruits,Meat,No Sweets,Store
+Master,Married,50s,High,Children,Wine,Fruits,Meat,No Sweets,Web
+PhD,Married,40s,High,Children,Wine,Fruits,Meat,No Sweets,Store
+Master,Married,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Together,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Divorced,50s,Low,No Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Together,60s,Medium,Children,Wine,No Fruits,Meat,Sweets,Web
+2n Cycle,Together,20s,Low,Children,No Wine,Fruits,No Meat,Sweets,Store
+PhD,Widow,60s,High,Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Married,50s,High,Children,Wine,Fruits,Meat,No Sweets,Store
+Graduation,Married,30s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Together,30s,Medium,Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Married,20s,Medium,Children,Wine,Fruits,Meat,No Sweets,Web
+Graduation,Together,60s,High,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,30s,High,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Single,60s,High,Children,Wine,Fruits,Meat,No Sweets,Store
+Graduation,Married,20s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Together,20s,High,No Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Single,20s,Medium,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Single,40s,High,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Married,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,40s,Medium,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Single,40s,Medium,Children,No Wine,No Fruits,Meat,Sweets,Web
+Graduation,Married,50s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,30s,High,No Children,Wine,No Fruits,Meat,Sweets,Store
+Graduation,Single,40s,High,Children,Wine,Fruits,Meat,Sweets,Store
+2n Cycle,Married,60s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,60s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Single,30s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Widow,50s,High,Children,Wine,Fruits,Meat,Sweets,Web
+Master,Single,50s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Together,50s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Single,40s,Low,No Children,No Wine,No Fruits,No Meat,Sweets,Web
+Graduation,Divorced,30s,High,Children,Wine,Fruits,Meat,No Sweets,Store
+PhD,Divorced,30s,High,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,60s,Medium,Children,Wine,Fruits,Meat,No Sweets,Store
+Graduation,Together,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+PhD,Together,20s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Together,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,30s,High,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Widow,60s,High,Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Married,60s,Medium,No Children,No Wine,Fruits,No Meat,No Sweets,Store
+PhD,Married,50s,High,Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Married,20s,Medium,Children,No Wine,No Fruits,No Meat,Sweets,Store
+Graduation,Together,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Together,60s,Medium,Children,Wine,No Fruits,Meat,No Sweets,Store
+Graduation,Married,50s,High,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Single,20s,Medium,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,20s,High,No Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Divorced,40s,High,Children,Wine,Fruits,Meat,Sweets,Store
+Master,Married,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Basic,Widow,50s,Low,No Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,30s,Medium,Children,No Wine,Fruits,No Meat,No Sweets,Store
+Graduation,Married,50s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Married,20s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,40s,Medium,Children,Wine,Fruits,Meat,Sweets,Web
+2n Cycle,Married,80s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,50s,High,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Single,30s,Medium,Children,No Wine,Fruits,No Meat,No Sweets,Store
+Master,Married,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Divorced,30s,Medium,Children,Wine,No Fruits,Meat,No Sweets,Store
+Basic,Together,40s,Low,No Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Together,30s,High,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Absurd,80s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Master,Together,60s,Medium,Children,Wine,No Fruits,Meat,Sweets,Web
+PhD,Married,60s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Together,30s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Single,50s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Store
+Master,Married,30s,High,Children,Wine,Fruits,Meat,No Sweets,Store
+Graduation,Married,30s,High,Children,Wine,Fruits,Meat,Sweets,Store
+Master,Married,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Together,60s,High,Children,Wine,No Fruits,Meat,Sweets,Store
+2n Cycle,Married,20s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Married,30s,High,Children,Wine,Fruits,Meat,Sweets,Web
+Basic,Married,30s,Low,No Children,No Wine,No Fruits,No Meat,Sweets,Store
+Basic,Married,20s,Low,Children,No Wine,Fruits,No Meat,Sweets,Store
+Master,Married,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Divorced,40s,High,Children,Wine,Fruits,Meat,No Sweets,Store
+Master,Married,60s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Single,50s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Widow,50s,Medium,Children,Wine,No Fruits,Meat,Sweets,Web
+PhD,Together,30s,Medium,No Children,Wine,Fruits,Meat,No Sweets,Store
+Graduation,Together,50s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Together,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Master,Married,50s,Medium,Children,Wine,No Fruits,Meat,No Sweets,Web
+Master,Together,40s,High,Children,Wine,Fruits,Meat,No Sweets,Store
+2n Cycle,Married,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Together,50s,High,Children,Wine,Fruits,Meat,No Sweets,Store
+Master,Single,40s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Divorced,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Together,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+2n Cycle,Together,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+2n Cycle,Married,50s,Medium,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Together,50s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Together,30s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,40s,High,Children,Wine,No Fruits,Meat,No Sweets,Store
+PhD,Married,20s,High,No Children,Wine,No Fruits,Meat,Sweets,Store
+PhD,Together,40s,High,No Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Together,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Divorced,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Single,30s,High,No Children,Wine,No Fruits,Meat,Sweets,Store
+PhD,Married,60s,High,No Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Basic,Married,30s,Low,Children,No Wine,No Fruits,No Meat,Sweets,Web
+Master,Absurd,50s,High,No Children,Wine,Fruits,Meat,No Sweets,Store
+Graduation,Married,40s,Medium,Children,Wine,Fruits,Meat,No Sweets,Web
+Graduation,Widow,40s,Medium,Children,Wine,No Fruits,No Meat,Sweets,Web
+Graduation,Single,40s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Divorced,50s,High,Children,Wine,Fruits,No Meat,Sweets,Store
+Master,Divorced,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Divorced,30s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Divorced,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,50s,Low,No Children,No Wine,Fruits,No Meat,No Sweets,Store
+Graduation,Single,30s,High,Children,Wine,No Fruits,Meat,Sweets,Web
+Graduation,Single,50s,High,No Children,Wine,Fruits,Meat,Sweets,Web
+PhD,Together,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Master,Together,50s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+PhD,Together,30s,High,Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Married,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Married,50s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,30s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,30s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Widow,40s,Medium,Children,Wine,No Fruits,No Meat,Sweets,Web
+Master,Together,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+2n Cycle,Married,20s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+2n Cycle,Divorced,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Together,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Married,50s,Medium,Children,Wine,No Fruits,Meat,No Sweets,Store
+Graduation,Single,40s,Medium,Children,No Wine,Fruits,Meat,Sweets,Store
+PhD,Married,40s,High,Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Together,30s,High,Children,Wine,Fruits,No Meat,Sweets,Web
+Graduation,Together,50s,Medium,Children,Wine,Fruits,Meat,Sweets,Store
+2n Cycle,Widow,60s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Basic,Single,80s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Single,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Divorced,50s,High,Children,Wine,Fruits,Meat,Sweets,Store
+Master,Single,20s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,20s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Single,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Single,40s,High,Children,Wine,No Fruits,No Meat,No Sweets,Web
+2n Cycle,Divorced,40s,High,No Children,Wine,No Fruits,Meat,No Sweets,Store
+Graduation,Together,30s,High,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,60s,High,Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Married,50s,High,Children,Wine,No Fruits,Meat,No Sweets,Web
+PhD,Married,30s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Master,Divorced,40s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+PhD,YOLO,30s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Married,40s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Together,50s,Medium,Children,Wine,No Fruits,Meat,No Sweets,Store
+Graduation,Married,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+PhD,Married,30s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Married,40s,Medium,No Children,No Wine,Fruits,No Meat,Sweets,Store
+Basic,Single,30s,Medium,Children,No Wine,No Fruits,No Meat,Sweets,Store
+2n Cycle,Married,50s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,50s,High,Children,Wine,Fruits,Meat,No Sweets,Store
+Master,Married,30s,High,Children,Wine,Fruits,Meat,No Sweets,Store
+PhD,Married,50s,High,No Children,Wine,Fruits,Meat,Sweets,Web
+Master,Together,50s,High,No Children,Wine,Fruits,Meat,No Sweets,Store
+Basic,Married,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Single,20s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Divorced,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,60s,Medium,No Children,No Wine,No Fruits,No Meat,No Sweets,Store
+2n Cycle,Married,50s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,50s,High,Children,Wine,Fruits,Meat,Sweets,Web
+Master,Single,50s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Single,30s,Medium,No Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Together,30s,Medium,Children,Wine,No Fruits,Meat,No Sweets,Web
+Graduation,Married,50s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Married,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Basic,Single,20s,Low,Children,No Wine,Fruits,No Meat,No Sweets,Web
+Graduation,Single,40s,Medium,Children,Wine,Fruits,Meat,No Sweets,Web
+PhD,YOLO,30s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Married,30s,High,Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,20s,Low,No Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Single,40s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,30s,High,Children,Wine,Fruits,Meat,Sweets,Web
+Graduation,Together,50s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Basic,Together,40s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Divorced,40s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+2n Cycle,Divorced,50s,Medium,Children,Wine,Fruits,Meat,No Sweets,Web
+Graduation,Together,30s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Master,Divorced,60s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+2n Cycle,Single,80s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Married,30s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Together,50s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Together,20s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+PhD,Widow,60s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+Graduation,Together,30s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Master,Together,20s,Medium,Children,Wine,No Fruits,Meat,Sweets,Web
+Graduation,Married,30s,Medium,Children,Wine,Fruits,Meat,Sweets,Store
+Master,Single,20s,High,No Children,Wine,Fruits,Meat,Sweets,Store
+2n Cycle,Together,30s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Master,Married,40s,Medium,Children,No Wine,Fruits,No Meat,No Sweets,Store
+PhD,Single,40s,Medium,Children,Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Together,40s,Medium,Children,Wine,Fruits,Meat,No Sweets,Web
+Graduation,Married,30s,High,Children,Wine,No Fruits,Meat,Sweets,Web
+Graduation,Single,40s,Medium,Children,Wine,No Fruits,Meat,No Sweets,Store
+Graduation,Married,30s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Single,20s,Low,Children,No Wine,No Fruits,No Meat,No Sweets,Web
+Master,Single,40s,Medium,No Children,Wine,No Fruits,Meat,No Sweets,Store
+Graduation,Single,20s,Medium,No Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Together,30s,High,Children,No Wine,Fruits,No Meat,No Sweets,Web
+Graduation,Married,30s,Medium,Children,No Wine,No Fruits,No Meat,No Sweets,Store
+Graduation,Married,40s,High,Children,Wine,Fruits,Meat,Sweets,Web
+PhD,Together,60s,High,Children,Wine,No Fruits,No Meat,No Sweets,Web
+Graduation,Divorced,30s,Medium,No Children,Wine,Fruits,Meat,Sweets,Store
+Master,Together,50s,High,Children,Wine,Fruits,Meat,Sweets,Store
+PhD,Married,50s,Medium,Children,No Wine,No Fruits,Meat,No Sweets,Store
