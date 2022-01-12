@@ -1,0 +1,7 @@
+1. Copy mapper and reducer from host machine to container, i.e. use `docker cp` to copy there files: 
+    - ./hadoop-task/pa_mapper.py
+    - ./hadoop-task/pa_reducer.py
+    
+2. Apply mapreduce: `hadoop jar /usr/local/hadoop/share/hadoop/tools/lib/hadoop-streaming-2.10.1.jar -files /pa_mapper.py,/pa_reducer.py -mapper "python pa_mapper.py" -reducer "python pa_reducer.py" -input /input/JLT-final-log-10.tsv -output /output/servicetimes-10`
+3. Copy from hdfs to container: `hadoop fs -copyToLocal /output/servicetimes-10/part-00000 servicetimes.tsv`
+4. Copy servicetime.tsv from container to host machine

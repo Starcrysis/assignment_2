@@ -1,0 +1,10 @@
+1. Copy mappers and reducers from host machine to container, i.e. use `docker cp` to copy there files: 
+    - ./hadoop-task/pm_mapper1.py
+    - ./hadoop-task/pm_mapper2.py
+    - ./hadoop-task/pm_reducer1.py
+    - ./hadoop-task/pm_reducer2.py
+
+2. Apply first mapreduce: `hadoop jar /usr/local/hadoop/share/hadoop/tools/lib/hadoop-streaming-2.10.1.jar -files /pm_mapper1.py,/pm_reducer1.py -mapper "python pm_mapper1.py" -reducer "python pm_reducer1.py" -input /input/JLT-final-log-10.tsv -output /output/DFG0`
+3. Apply second mapreduce: `hadoop jar /usr/local/hadoop/share/hadoop/tools/lib/hadoop-streaming-2.10.1.jar -files /pm_mapper2.py,/pm_reducer2.py -mapper "python pm_mapper2.py" -reducer "python pm_reducer2.py" -input /output/DFG0/part-00000 -output /output/DFG0-final`
+4. Copy from hdfs to container: `hadoop fs -copyToLocal /output/DFG0-final/part-00000 dfr.txt`
+5. Copy dfr.txt from container to host machine
